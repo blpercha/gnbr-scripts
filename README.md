@@ -1,3 +1,5 @@
+## Raw PubTator annotations to dependency paths and themes
+
 How to go from raw PubTator files to themed dependency paths, assuming you are on Sherlock:
 
 1. Break up the raw PubTator .gz file into smaller files of about 500k-1M lines.
@@ -44,7 +46,7 @@ Example:
 
 assign-themes.py chemical-gene-path-theme-distributions.txt chemical-gene-path-themes.txt
 
-#########################################################################################
+## Dependency paths and themes to formatted files for Zenodo
 
 To create the final supplement files:
 
