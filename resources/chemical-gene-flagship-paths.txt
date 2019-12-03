@@ -1,0 +1,697 @@
+-rsb-|compound|start_entity -rsb-|compound|end_entity	1
+effects|nmod|start_entity effects|appos|end_entity	2
+mutations|amod|start_entity mutations|compound|end_entity	2
+start_entity|nmod|gene gene|compound|end_entity	2
+study|nmod|start_entity study|appos|end_entity	2
+trial|nmod|start_entity trial|appos|end_entity	2
+inhibitor|dobj|start_entity inhibitor|nsubj|effects effects|nmod|end_entity	3
+start_entity|appos|inhibitor inhibitor|appos|end_entity	3
+inhibitor|xcomp|start_entity inhibitor|nsubj|effects effects|nmod|end_entity	3
+inhibitor|xcomp|start_entity inhibitor|nsubj|effect effect|nmod|end_entity	3
+start_entity|nsubj|inhibitor inhibitor|compound|end_entity	3
+inhibition|nmod|start_entity inhibition|nsubj|effects effects|nmod|end_entity	3
+start_entity|dep|inhibitor inhibitor|nmod|end_entity	3
+study|nmod|start_entity study|appos|inhibitor inhibitor|compound|end_entity	3
+inhibition|nmod|start_entity inhibition|nummod|end_entity	3
+start_entity|appos|antagonist antagonist|compound|end_entity	3
+start_entity|appos|receptor receptor|compound|end_entity	3
+inhibitor|advmod|start_entity inhibitor|nsubj|end_entity	3
+effects|appos|start_entity effects|nmod|inhibitor inhibitor|compound|end_entity	3
+inhibition|nmod|start_entity inhibition|compound|end_entity	3
+inhibitor|dobj|start_entity inhibitor|nsubj|effect effect|nmod|end_entity	3
+inhibitor|dep|start_entity inhibitor|compound|end_entity	3
+start_entity|nsubj|effects effects|nmod|inhibitor inhibitor|compound|end_entity	3
+start_entity|nsubj|effect effect|nmod|inhibitor inhibitor|compound|end_entity	3
+start_entity|dep|inhibitor inhibitor|compound|end_entity	3
+start_entity|appos|inhibitor inhibitor|compound|end_entity	3
+inhibitor|appos|start_entity inhibitor|compound|end_entity	3
+effects|nmod|start_entity effects|appos|inhibitor inhibitor|nmod|end_entity	3
+start_entity|dep|inhibitor inhibitor|amod|end_entity	3
+inhibitor|dep|start_entity inhibitor|amod|end_entity	3
+start_entity|appos|inhibitor inhibitor|nmod|end_entity	3
+inhibitor|appos|start_entity inhibitor|amod|end_entity	3
+start_entity|appos|inhibitor inhibitor|amod|end_entity	3
+effect|nmod|start_entity effect|appos|inhibitor inhibitor|amod|end_entity	3
+inhibitor|appos|start_entity inhibitor|nmod|end_entity	3
+inhibition|nmod|start_entity inhibition|nmod|activity activity|amod|end_entity	3
+start_entity|nsubj|effects effects|nmod|inhibitor inhibitor|amod|end_entity	3
+start_entity|nsubj|effect effect|nmod|inhibitor inhibitor|amod|end_entity	3
+inhibition|nmod|start_entity inhibition|amod|end_entity	3
+inhibition|nmod|start_entity inhibition|nsubj|end_entity	3
+start_entity|dep|inhibition inhibition|amod|end_entity	3
+inhibitor|appos|start_entity inhibitor|appos|end_entity	3
+start_entity|dobj|activity activity|compound|end_entity	4
+combination|nmod|start_entity end_entity|nmod|combination	5
+study|nmod|start_entity study|nmod|end_entity	5
+trial|nmod|start_entity trial|nmod|end_entity	5
+start_entity|nmod|cells cells|compound|end_entity	5
+start_entity|nmod|activity activity|compound|end_entity	5
+treatment|amod|start_entity end_entity|nmod|treatment	5
+start_entity|nmod|inhibition inhibition|compound|end_entity	5
+-rsb-|compound|start_entity end_entity|nmod|-rsb-	5
+start_entity|nmod|release release|compound|end_entity	5
+effect|nmod|start_entity effect|nmod|activity activity|compound|end_entity	5
+activity|nmod|start_entity activity|compound|end_entity	5
+effects|nmod|start_entity effects|nmod|activity activity|compound|end_entity	5
+activation|compound|start_entity activation|nmod|end_entity	6+
+start_entity|nmod|protein protein|compound|end_entity	6
+effect|nmod|start_entity mediates|dobj|effect mediates|nsubj|end_entity	6
+activation|nmod|start_entity activation|nmod|end_entity	6+
+receptors|compound|start_entity receptors|nmod|end_entity	6
+effects|nmod|start_entity end_entity|nmod|effects	6
+modulates|nsubj|start_entity modulates|dobj|expression expression|compound|end_entity	6
+expression|compound|start_entity expression|nmod|end_entity	6
+antagonist|dobj|start_entity antagonist|nsubj|effects effects|nmod|receptor receptor|compound|end_entity	6-
+antagonist|appos|start_entity antagonist|compound|end_entity	6-
+start_entity|nsubj|effects effects|nmod|antagonist antagonist|amod|end_entity	6-
+blocker|appos|start_entity blocker|amod|end_entity	6-
+start_entity|appos|antagonist antagonist|amod|end_entity	6-
+start_entity|appos|antagonist antagonist|nmod|end_entity	6-
+antagonist|appos|start_entity antagonist|amod|end_entity	6-
+enhances|nsubj|start_entity enhances|nmod|end_entity	6
+start_entity|nmod|inhibitors inhibitors|compound|end_entity	6-
+induces|nsubj|start_entity induces|nmod|end_entity	6+
+start_entity|nmod|receptors receptors|compound|end_entity	6
+acts|nsubj|start_entity acts|nmod|end_entity	6
+start_entity|appos|agonist agonist|compound|end_entity	6+
+agonist|appos|start_entity agonist|compound|end_entity	6+
+start_entity|appos|activator activator|amod|end_entity	6+
+start_entity|nsubj|effects effects|nmod|agonist agonist|amod|end_entity	6+
+start_entity|appos|ligand ligand|amod|end_entity	6
+start_entity|appos|agonist agonist|nmod|end_entity	6+
+start_entity|appos|ligand ligand|nmod|end_entity	6
+agonist|appos|start_entity agonist|amod|end_entity	6+
+start_entity|appos|agonist agonist|amod|end_entity	6+
+site|compound|start_entity site|nmod|end_entity	7
+species|compound|start_entity species|nmod|end_entity	7
+species|compound|start_entity species|compound|end_entity	7
+start_entity|nsubj|messenger messenger|compound|end_entity	8
+messenger|acl|start_entity messenger|compound|end_entity	8
+inhibits|nsubj|start_entity inhibits|dobj|secretion secretion|nmod|end_entity	8-
+effects|nmod|start_entity effects|nmod|release release|amod|end_entity	8
+start_entity|nmod|concentration concentration|compound|end_entity	8
+stimulates|nsubj|start_entity stimulates|dobj|release release|nmod|end_entity	8+
+treated|nmod|start_entity treated|nsubj|end_entity	8
+secretion|amod|start_entity end_entity|nmod|secretion	8
+synthesis|amod|start_entity inhibits|dobj|synthesis inhibits|nsubj|end_entity	8-
+decreases|dobj|start_entity decreases|nsubj|end_entity	8-
+uptake|compound|start_entity end_entity|nmod|uptake	8
+effect|amod|start_entity effect|nmod|end_entity	8
+start_entity|nmod|site site|nmod|end_entity	8
+stimulates|nsubj|start_entity stimulates|dobj|expression expression|nmod|end_entity	8+
+effects|compound|start_entity effects|nmod|end_entity	8
+synthesis|amod|start_entity stimulates|dobj|synthesis stimulates|nsubj|end_entity	8+
+production|amod|start_entity stimulates|dobj|production stimulates|nsubj|end_entity	8+
+effect|nmod|start_entity effect|nmod|production production|compound|end_entity	8
+inhibits|dobj|start_entity inhibits|nsubj|end_entity	8-
+levels|amod|start_entity levels|nmod|end_entity	8
+structure|amod|start_entity structure|nmod|end_entity	8
+release|nmod|start_entity end_entity|nmod|release	8
+binding|compound|start_entity binding|nmod|end_entity	8
+release|nmod|start_entity release|amod|end_entity	8
+start_entity|nmod|deficiency deficiency|amod|end_entity	8
+effect|nmod|start_entity end_entity|dep|effect	8
+properties|amod|start_entity properties|nmod|end_entity	8
+species|compound|start_entity species|amod|end_entity	8
+synthesis|amod|start_entity synthesis|nmod|end_entity	8
+expression|amod|start_entity expression|nmod|end_entity	8
+regulates|nsubj|start_entity regulates|dobj|expression expression|nmod|end_entity	8
+composition|amod|start_entity composition|nmod|end_entity	8
+inhibits|nsubj|start_entity inhibits|dobj|expression expression|compound|end_entity	8-
+metabolism|amod|start_entity end_entity|nmod|metabolism	8
+metabolism|amod|start_entity effects|nmod|metabolism effects|nmod|end_entity	8
+metabolism|amod|start_entity effect|nmod|metabolism effect|nmod|end_entity	8
+secretion|amod|start_entity stimulates|dobj|secretion stimulates|nsubj|end_entity	8+
+induced|nmod|start_entity induced|nsubjpass|end_entity	8+
+transport|amod|start_entity end_entity|nmod|transport	8
+start_entity|nsubj|stimulates stimulates|compound|end_entity	8+
+start_entity|nmod|activity activity|nmod|end_entity	8
+production|compound|start_entity production|compound|end_entity	8
+regulation|nmod|start_entity regulation|nmod|expression expression|compound|end_entity	9
+regulation|nmod|start_entity regulation|nmod|end_entity	9
+start_entity|nmod|expression expression|compound|end_entity	9
+stimulates|nsubj|start_entity stimulates|dobj|expression expression|compound|end_entity	9+
+decreases|nsubj|start_entity decreases|dobj|end_entity	9-
+reduces|nsubj|start_entity reduces|dobj|expression expression|nmod|end_entity	9-
+therapy|compound|start_entity therapy|nmod|end_entity	9
+production|amod|start_entity inhibits|dobj|production inhibits|nsubj|end_entity	9-
+effect|nmod|start_entity end_entity|nmod|effect	9
+effect|nmod|start_entity mediated|nsubjpass|effect mediated|nmod|end_entity	9
+affects|nsubj|start_entity affects|dobj|expression expression|compound|end_entity	9
+regulation|compound|start_entity regulation|nmod|expression expression|compound|end_entity	9
+regulation|compound|start_entity regulation|nmod|end_entity	9
+start_entity|nmod|activation activation|nmod|end_entity	9+
+expression|nmod|start_entity expression|compound|end_entity	9
+treatment|compound|start_entity end_entity|nmod|treatment	9
+effects|nmod|start_entity effects|nmod|expression expression|compound|end_entity	9
+start_entity|nmod|production production|compound|end_entity	9
+effects|nmod|start_entity effects|nmod|expression expression|nmod|end_entity	9
+regulated|nmod|start_entity regulated|nsubjpass|end_entity	9
+effects|nmod|start_entity effects|nmod|production production|compound|end_entity	9
+suppresses|nsubj|start_entity suppresses|dobj|expression expression|compound|end_entity	9-
+modulation|nmod|start_entity modulation|nmod|end_entity	9
+increases|nsubj|start_entity increases|dobj|expression expression|amod|end_entity	9+
+stimulates|nsubj|start_entity stimulates|dobj|expression expression|amod|end_entity	9+
+effects|nmod|start_entity effects|nmod|production production|amod|end_entity	9
+regulates|nsubj|start_entity regulates|dobj|end_entity	9
+secretion|amod|start_entity effect|nmod|secretion effect|nmod|end_entity	9
+increases|amod|start_entity end_entity|nsubj|increases	9+
+stimulates|nsubj|start_entity stimulates|dobj|end_entity	9+
+species|compound|start_entity end_entity|nmod|species	9
+production|amod|start_entity end_entity|nmod|production	9
+regulation|nmod|start_entity regulation|amod|end_entity	9
+levels|amod|start_entity levels|amod|end_entity	9
+induces|nsubj|start_entity induces|xcomp|end_entity	9+
+effects|nmod|start_entity mediates|dobj|effects mediates|nsubj|end_entity	9
+induces|nsubj|start_entity induces|dobj|expression expression|amod|end_entity	9+
+start_entity|dobj|expression expression|amod|end_entity	9
+induces|nsubj|start_entity induces|dobj|expression expression|nmod|end_entity	9+
+regulation|nmod|start_entity regulation|nmod|expression expression|amod|end_entity	9
+upregulates|nsubj|start_entity upregulates|dobj|expression expression|amod|end_entity	9+
+synthase|amod|start_entity synthase|amod|end_entity	9
+regulates|nsubj|start_entity regulates|dobj|expression expression|amod|end_entity	9
+production|nmod|start_entity production|amod|end_entity	9
+inhibition|compound|start_entity inhibition|nmod|end_entity	9
+regulation|amod|start_entity regulation|nmod|end_entity	9
+start_entity|nmod|activity activity|amod|end_entity	9
+administration|amod|start_entity end_entity|nmod|administration	9
+oxidation|nmod|start_entity oxidation|nmod|end_entity	9
+inhibit|nsubj|start_entity inhibit|dobj|end_entity	9-
+effect|nmod|start_entity effect|nmod|expression expression|amod|end_entity	9
+inhibits|nsubj|start_entity inhibits|dobj|production production|amod|end_entity	9-
+start_entity|nmod|production production|amod|end_entity	9
+start_entity|nmod|cells cells|amod|end_entity	9
+reduces|nsubj|start_entity reduces|dobj|expression expression|amod|end_entity	9-
+activity|nmod|start_entity activity|nmod|end_entity	9
+effects|nmod|start_entity effects|dep|role role|nmod|end_entity	9
+inhibits|nsubj|start_entity inhibits|dobj|expression expression|amod|end_entity	9-
+start_entity|appos|blocker blocker|amod|end_entity	9-
+blockade|nmod|start_entity blockade|amod|end_entity	9
+start_entity|nmod|expression expression|amod|end_entity	9
+induces|nsubj|start_entity induces|dobj|end_entity	9+
+activates|nsubj|start_entity activates|dobj|end_entity	9+
+up-regulates|amod|start_entity end_entity|nsubj|up-regulates	9+
+activation|nmod|start_entity activation|amod|end_entity	9+
+increases|nsubj|start_entity increases|dobj|end_entity	9+
+suppresses|nsubj|start_entity suppresses|dobj|expression expression|amod|end_entity	9-
+effects|nmod|start_entity effects|nmod|expression expression|amod|end_entity	9
+attenuates|nsubj|start_entity attenuates|dobj|expression expression|amod|end_entity	9-
+start_entity|nmod|activation activation|amod|end_entity	9+
+gene|nmod|start_entity gene|amod|end_entity	9
+enhances|nsubj|start_entity enhances|dobj|expression expression|amod|end_entity	9+
+induction|nmod|start_entity induction|amod|end_entity	9+
+inhibits|nsubj|start_entity inhibits|dobj|activation activation|amod|end_entity	9-
+induction|amod|start_entity induction|nmod|end_entity	9+
+inhibits|nsubj|start_entity inhibits|xcomp|end_entity	9-
+inactivation|nmod|start_entity inactivation|nmod|end_entity	10
+start_entity|nmod|levels levels|amod|end_entity	10
+start_entity|nmod|regulation regulation|nmod|end_entity	10
+effects|amod|start_entity effects|nmod|end_entity	10
+activity|nmod|start_entity activity|amod|end_entity	10
+expression|nmod|start_entity expression|amod|end_entity	10
+start_entity|nmod|inhibitors inhibitors|amod|end_entity	10
+inhibits|nsubj|start_entity inhibits|dobj|expression expression|nmod|end_entity	10
+inhibits|nsubj|start_entity inhibits|nmod|end_entity	10
+inhibition|nmod|start_entity inhibition|nmod|end_entity	10
+start_entity|nmod|patients patients|nmod|end_entity	10
+inhibition|nmod|start_entity inhibition|nsubj|effect effect|nmod|end_entity	10
+effect|nmod|start_entity effect|nmod|levels levels|amod|end_entity	10
+inhibitors|dep|start_entity inhibitors|compound|end_entity	10
+effect|nmod|start_entity effect|nmod|activity activity|amod|end_entity	10
+inhibits|nsubj|start_entity inhibits|dobj|activity activity|amod|end_entity	10
+effects|nmod|start_entity effects|nmod|inhibition inhibition|amod|end_entity	10
+start_entity|nmod|inhibitor inhibitor|amod|end_entity	10
+start_entity|nmod|inhibition inhibition|amod|end_entity	10
+inhibitor|nsubj|start_entity inhibitor|nmod|end_entity	10
+expression|nmod|start_entity expression|nmod|end_entity	11a
+therapy|amod|start_entity end_entity|nmod|therapy	11a
+absence|nmod|start_entity end_entity|nmod|absence	11a
+enhances|nsubj|start_entity enhances|dobj|expression expression|compound|end_entity	11a
+effect|nmod|start_entity effect|appos|end_entity	11a
+reduces|nsubj|start_entity reduces|dobj|end_entity	11a
+resistance|amod|start_entity resistance|compound|end_entity	11a
+effect|nmod|start_entity effect|compound|end_entity	11a
+start_entity|nmod|resistance resistance|compound|end_entity	11a
+start_entity|nmod|action action|nmod|end_entity	11a
+effect|nmod|start_entity effect|nmod|resistance resistance|compound|end_entity	11a
+start_entity|nmod|combination combination|nmod|end_entity	11a
+inhibition|amod|start_entity inhibition|nmod|secretion secretion|compound|end_entity	11a
+resistance|nmod|start_entity resistance|compound|end_entity	11a
+effects|nmod|start_entity effects|nmod|resistance resistance|compound|end_entity	11a
+start_entity|nmod|sensitivity sensitivity|compound|end_entity	11a
+treatment|amod|start_entity treatment|nmod|end_entity	11a
+effects|nmod|start_entity effects|nmod|end_entity	11a
+start_entity|nmod|levels levels|compound|end_entity	11a
+effect|nmod|start_entity effect|nmod|levels levels|compound|end_entity	11a
+therapy|compound|start_entity end_entity|nmod|therapy	11a
+administration|compound|start_entity end_entity|nmod|administration	11a
+lack|nmod|start_entity lack|nmod|end_entity	11a
+inhibits|nsubj|start_entity inhibits|dobj|release release|compound|end_entity	11a
+secretion|compound|start_entity end_entity|nmod|secretion	11a
+stimulates|nsubj|start_entity stimulates|dobj|secretion secretion|amod|end_entity	11a
+release|amod|start_entity stimulates|dobj|release stimulates|nsubj|end_entity	11a
+start_entity|nmod|release release|nmod|end_entity	11a
+associated|nmod|start_entity associated|nsubjpass|end_entity	11a
+start_entity|nmod|therapy therapy|compound|end_entity	11a
+effects|nmod|start_entity effects|nmod|secretion secretion|nmod|end_entity	11a
+treatment|compound|start_entity treatment|nmod|end_entity	11a
+effect|nmod|start_entity effect|nmod|secretion secretion|amod|end_entity	11a
+effects|nmod|start_entity end_entity|nsubj|effects	11a
+effects|nmod|start_entity effects|nmod|secretion secretion|amod|end_entity	11a
+effects|nmod|start_entity effects|nmod|levels levels|compound|end_entity	11a
+start_entity|nmod|concentrations concentrations|nmod|end_entity	11a
+increases|nsubj|start_entity increases|dobj|levels levels|compound|end_entity	11a
+inhibits|nsubj|start_entity inhibits|dobj|release release|nmod|end_entity	11a
+stimulates|nsubj|start_entity stimulates|dobj|release release|compound|end_entity	11a
+effect|nmod|start_entity effect|nmod|concentrations concentrations|compound|end_entity	11a
+start_entity|dobj|secretion secretion|compound|end_entity	11a
+effect|nmod|start_entity effect|nmod|end_entity	11a
+effect|nmod|start_entity effect|nmod|secretion secretion|compound|end_entity	11a
+start_entity|nmod|secretion secretion|compound|end_entity	11a
+start_entity|nmod|response response|compound|end_entity	11a
+response|acl|start_entity response|amod|end_entity	11a
+start_entity|nsubj|response response|compound|end_entity	11a
+secretion|nmod|start_entity secretion|nsubj|stimulation stimulation|nmod|end_entity	11a
+response|nmod|start_entity response|compound|end_entity	11a
+effect|nmod|start_entity effect|nmod|response response|compound|end_entity	11a
+response|acl|start_entity response|compound|end_entity	11a
+response|acl|start_entity response|nmod|end_entity	11a
+responses|xcomp|start_entity responses|nsubj|end_entity	11a
+effects|nmod|start_entity effects|nmod|release release|nmod|end_entity	11a
+effects|nmod|start_entity effects|nmod|release release|compound|end_entity	11a
+stimulates|nsubj|start_entity stimulates|dobj|secretion secretion|compound|end_entity	11a
+start_entity|nmod|concentrations concentrations|compound|end_entity	11a
+inhibits|nsubj|start_entity inhibits|dobj|secretion secretion|compound|end_entity	11a
+treatment|nmod|start_entity end_entity|nmod|treatment	11a
+release|nmod|start_entity release|nsubj|inhibition inhibition|nmod|end_entity	11a
+release|nmod|start_entity release|nsubj|stimulation stimulation|nmod|end_entity	11a
+start_entity|amod|binding binding|nmod|end_entity	11b
+levels|compound|start_entity levels|compound|end_entity	11b
+transport|compound|start_entity transport|nmod|end_entity	11b
+induction|nmod|start_entity induction|compound|end_entity	11c
+effect|nmod|start_entity effect|amod|end_entity	11c
+start_entity|dep|effects effects|nmod|end_entity	11c
+inhibits|nsubj|start_entity inhibits|dobj|end_entity	11c
+control|nmod|start_entity control|nmod|end_entity	11c
+mediates|nmod|start_entity mediates|nsubj|end_entity	11c
+release|amod|start_entity end_entity|nmod|release	11c
+synthesis|amod|start_entity end_entity|nmod|synthesis	11c
+effects|nmod|start_entity effects|nmod|levels levels|amod|end_entity	11c
+regulation|nmod|start_entity end_entity|nmod|regulation	11c
+transport|compound|start_entity transport|amod|end_entity	11c
+inhibits|nsubj|start_entity inhibits|dobj|release release|amod|end_entity	11c
+induces|nmod|start_entity induces|nsubj|end_entity	11c
+metabolism|compound|start_entity regulates|dobj|metabolism regulates|nsubj|end_entity	11c
+uptake|compound|start_entity inhibits|dobj|uptake inhibits|nsubj|end_entity	11c
+modulates|dobj|start_entity modulates|nsubj|end_entity	11c
+effect|nmod|start_entity effect|dep|role role|nmod|end_entity	11c
+reduces|nsubj|start_entity reduces|nmod|end_entity	11c
+modulates|nsubj|start_entity modulates|dobj|end_entity	11c
+mobilization|compound|start_entity mobilization|nmod|end_entity	11c
+concentration|compound|start_entity concentration|nmod|end_entity	11c
+suppresses|nsubj|start_entity suppresses|dobj|end_entity	11c
+start_entity|nmod|relation relation|nmod|end_entity	11c
+interaction|nmod|start_entity interaction|nmod|end_entity	11c
+effect|nmod|start_entity effect|acl|end_entity	11c
+homeostasis|compound|start_entity homeostasis|nmod|end_entity	11c
+elevates|dobj|start_entity elevates|nsubj|end_entity	11c
+start_entity|nmod|effect effect|nmod|end_entity	11c
+effect|nmod|start_entity effect|nmod|secretion secretion|nmod|end_entity	11c
+start_entity|nmod|response response|nmod|end_entity	11c
+comparison|nmod|start_entity comparison|nmod|end_entity	11c
+effects|nmod|start_entity effects|amod|end_entity	11c
+changes|nmod|start_entity changes|nmod|end_entity	11c
+secretion|nmod|start_entity secretion|nsubj|regulation regulation|nmod|end_entity	11c
+levels|compound|start_entity levels|amod|end_entity	11c
+excretion|compound|start_entity end_entity|nmod|excretion	11c
+metabolism|compound|start_entity end_entity|nmod|metabolism	11c
+start_entity|nmod|secretion secretion|amod|end_entity	11c
+effects|nmod|start_entity end_entity|dep|effects	11c
+responses|nmod|start_entity responses|amod|end_entity	11c
+start_entity|nmod|release release|amod|end_entity	11c
+response|compound|start_entity response|nmod|end_entity	11c
+production|amod|start_entity production|nmod|end_entity	11c
+influence|nmod|start_entity influence|nmod|end_entity	11c
+response|amod|start_entity response|nmod|end_entity	11c
+regulation|nmod|start_entity regulation|compound|end_entity	11c
+gene|nmod|start_entity gene|compound|end_entity	11c
+action|nmod|start_entity action|nmod|end_entity	11c
+therapy|compound|start_entity therapy|compound|end_entity	11c
+regulation|amod|start_entity regulation|nmod|expression expression|compound|end_entity	11c
+regulates|dobj|start_entity regulates|nsubj|end_entity	11c
+increases|dobj|start_entity increases|nsubj|end_entity	11c
+uptake|compound|start_entity stimulates|dobj|uptake stimulates|nsubj|end_entity	11c
+levels|compound|start_entity end_entity|nmod|levels	11c
+levels|compound|start_entity effect|nmod|levels effect|nmod|end_entity	11c
+production|compound|start_entity end_entity|nmod|production	11c
+transport|compound|start_entity effect|nmod|transport effect|nmod|end_entity	11c
+formation|compound|start_entity end_entity|nmod|formation	11c
+stimulation|amod|start_entity stimulation|nmod|end_entity	11c
+effect|nmod|start_entity end_entity|nsubj|effect	11c
+transport|compound|start_entity end_entity|nmod|transport	11c
+start_entity|nmod|response response|amod|end_entity	11c
+metabolism|compound|start_entity metabolism|nmod|end_entity	11c
+metabolism|amod|start_entity metabolism|nmod|end_entity	11c
+metabolism|compound|start_entity role|nmod|metabolism role|nmod|end_entity	11c
+start_entity|dobj|levels levels|compound|end_entity	11c
+production|compound|start_entity production|nmod|end_entity	11c
+load|compound|start_entity end_entity|nmod|load	11c
+transport|compound|start_entity effects|nmod|transport effects|nmod|end_entity	11c
+transport|compound|start_entity stimulates|dobj|transport stimulates|nsubj|end_entity	11c
+tolerance|compound|start_entity tolerance|nmod|end_entity	11c
+loading|compound|start_entity end_entity|nmod|loading	11c
+uptake|compound|start_entity uptake|amod|end_entity	11c
+metabolism|compound|start_entity effect|nmod|metabolism effect|nmod|end_entity	11c
+metabolism|compound|start_entity effects|nmod|metabolism effects|nmod|end_entity	11c
+tolerance|compound|start_entity end_entity|nmod|tolerance	11c
+infusion|compound|start_entity end_entity|nmod|infusion	11c
+effect|nmod|start_entity effect|nmod|response response|amod|end_entity	11c
+production|compound|start_entity inhibits|dobj|production inhibits|nsubj|end_entity	11c
+secretion|nmod|start_entity secretion|amod|end_entity	11c
+response|nmod|start_entity response|nmod|end_entity	11c
+response|nmod|start_entity response|amod|end_entity	11c
+effects|nmod|start_entity effects|compound|end_entity	11c
+administration|nmod|start_entity end_entity|nmod|administration	11c
+concentration|nmod|start_entity concentration|compound|end_entity	11c
+effects|nmod|start_entity effects|nmod|secretion secretion|compound|end_entity	11c
+levels|nmod|start_entity levels|compound|end_entity	11c
+release|nmod|start_entity release|nsubj|end_entity	11c
+effect|nmod|start_entity effect|nmod|release release|compound|end_entity	11c
+secretion|nmod|start_entity secretion|nsubj|inhibition inhibition|nmod|end_entity	11c
+secretion|compound|start_entity secretion|compound|end_entity	11c
+responses|nmod|start_entity responses|compound|end_entity	11c
+start_entity|nmod|infusion infusion|compound|end_entity	11c
+secretion|nmod|start_entity secretion|compound|end_entity	11c
+start_entity|nmod|secretion secretion|nmod|end_entity	11c
+secretion|amod|start_entity secretion|compound|end_entity	11c
+start_entity|nmod|-rsb- -rsb-|compound|end_entity	11d
+absorption|compound|start_entity absorption|nmod|end_entity	11d
+domains|compound|start_entity domains|nmod|end_entity	11d
+release|amod|start_entity release|nmod|end_entity	11d
+release|compound|start_entity release|nmod|end_entity	11d
+release|nsubj|start_entity release|nmod|end_entity	11d
+uptake|nmod|start_entity uptake|nmod|end_entity	11d
+release|compound|start_entity release|amod|end_entity	11d
+distribution|nmod|start_entity distribution|nmod|end_entity	11d
+presence|nmod|start_entity end_entity|nmod|presence	11d
+transport|compound|start_entity role|nmod|transport role|nmod|end_entity	11d
+enhancement|nmod|start_entity enhancement|nmod|end_entity	11d
+intake|compound|start_entity end_entity|nmod|intake	11d
+release|compound|start_entity end_entity|nmod|release	11d
+uptake|nsubj|start_entity uptake|nmod|end_entity	11d
+release|nmod|start_entity release|nmod|end_entity	11d
+mechanism|nmod|start_entity mechanism|nmod|end_entity	11d
+homeostasis|compound|start_entity end_entity|nmod|homeostasis	11d
+start_entity|nmod|induction induction|nmod|end_entity	11d
+effects|nmod|start_entity effects|nmod|activity activity|amod|end_entity	11d
+binding|nmod|start_entity binding|nmod|end_entity	11d
+complex|nmod|start_entity end_entity|nmod|complex	11d
+induction|compound|start_entity induction|nmod|end_entity	11d
+induced|nmod|start_entity end_entity|acl|induced	12
+levels|amod|start_entity levels|compound|end_entity	12
+effect|nmod|start_entity effect|nmod|expression expression|compound|end_entity	12
+start_entity|dep|role role|nmod|end_entity	13
+start_entity|nmod|expression expression|nmod|end_entity	13
+induction|nmod|start_entity induction|nmod|end_entity	13
+responses|amod|start_entity responses|nmod|end_entity	13
+induces|nsubj|start_entity induces|dobj|expression expression|compound|end_entity	13
+production|amod|start_entity effect|nmod|production effect|nmod|end_entity	13
+start_entity|xcomp|binding binding|nmod|end_entity	13
+effect|nmod|start_entity effect|nmod|expression expression|nmod|end_entity	13
+start_entity|appos|substrate substrate|nmod|end_entity	13
+role|nmod|start_entity role|nmod|end_entity	13
+interactions|nmod|start_entity interactions|nmod|end_entity	13
+involvement|nmod|start_entity involvement|nmod|end_entity	13
+modulates|nsubj|start_entity modulates|nmod|end_entity	13
+mediates|nsubj|start_entity mediates|nmod|end_entity	13
+start_entity|acl|signaling signaling|nmod|end_entity	13
+start_entity|acl|induced induced|nmod|end_entity	13
+role|nmod|start_entity end_entity|dep|role	13
+channels|compound|start_entity channels|nmod|end_entity	13
+receptors|amod|start_entity receptors|appos|end_entity	14
+agonist|amod|start_entity agonist|amod|end_entity	14
+agonists|amod|start_entity agonists|amod|end_entity	14
+antagonists|compound|start_entity antagonists|amod|end_entity	14
+subunit|amod|start_entity subunit|compound|end_entity	14
+antagonist|compound|start_entity antagonist|compound|end_entity	14
+antagonist|amod|start_entity antagonist|compound|end_entity	14
+receptor|compound|start_entity receptor|compound|end_entity	14
+receptors|compound|start_entity receptors|compound|end_entity	14
+receptors|compound|start_entity receptors|amod|end_entity	14
+receptor|compound|start_entity receptor|amod|end_entity	14
+agonist|compound|start_entity agonist|compound|end_entity	14
+agonists|compound|start_entity agonists|amod|end_entity	14
+receptors|amod|start_entity receptors|compound|end_entity	14
+antagonists|amod|start_entity antagonists|compound|end_entity	14
+receptor|nmod|start_entity receptor|compound|end_entity	14
+receptors|nmod|start_entity receptors|nummod|end_entity	14
+receptors|compound|start_entity end_entity|nmod|receptors	14
+receptors|compound|start_entity receptors|appos|end_entity	14
+receptors|amod|start_entity receptors|amod|end_entity	14
+antagonists|compound|start_entity antagonists|compound|end_entity	14
+start_entity|dep|receptors receptors|nummod|end_entity	14
+receptor|compound|start_entity receptor|nummod|end_entity	14
+receptors|compound|start_entity receptors|nummod|end_entity	14
+start_entity|nsubj|characterization characterization|nmod|end_entity	15
+start_entity|ccomp|required required|nsubjpass|end_entity	15
+receptor|amod|start_entity receptor|compound|end_entity	15
+proteins|compound|start_entity proteins|compound|end_entity	15
+start_entity|nsubj|analysis analysis|nmod|end_entity	15
+mice|compound|start_entity mice|compound|end_entity	15
+start_entity|nsubj|expression expression|nmod|end_entity	15
+gene|amod|start_entity gene|amod|end_entity	15
+receptor|compound|start_entity end_entity|appos|receptor	15
+receptor|amod|start_entity end_entity|appos|receptor	15
+proteins|compound|start_entity proteins|amod|end_entity	15
+domain|compound|start_entity domain|nmod|end_entity	15
+receptors|amod|start_entity receptors|nummod|end_entity	15
+receptor|amod|start_entity receptor|amod|end_entity	15
+expression|compound|start_entity expression|amod|end_entity	16
+involved|nmod|start_entity involved|nsubjpass|end_entity	16
+gene|amod|start_entity gene|compound|end_entity	16
+polymorphism|compound|start_entity polymorphism|compound|end_entity	16
+agonist|amod|start_entity agonist|compound|end_entity	16
+subunit|amod|start_entity subunit|appos|end_entity	16
+start_entity|dobj|receptor receptor|appos|end_entity	16
+receptor|amod|start_entity receptor|appos|end_entity	16
+receptor|compound|start_entity receptor|appos|end_entity	16
+receptor|compound|start_entity end_entity|nmod|receptor	16
+receptor|compound|start_entity subunit|nmod|receptor subunit|compound|end_entity	16
+subunit|compound|start_entity subunit|appos|end_entity	16
+subunit|compound|start_entity subunit|compound|end_entity	16
+receptor|compound|start_entity subunit|nmod|receptor subunit|amod|end_entity	16
+subunit|compound|start_entity subunit|amod|end_entity	16
+subunits|compound|start_entity subunits|compound|end_entity	16
+pathway|compound|start_entity end_entity|nmod|pathway	17
+gene|compound|start_entity end_entity|appos|gene	18
+transport|amod|start_entity transport|nmod|end_entity	18
+start_entity|nmod|mice mice|amod|end_entity	18
+transport|compound|start_entity transport|compound|end_entity	18
+activity|compound|start_entity activity|nmod|end_entity	18
+function|amod|start_entity function|nmod|end_entity	18
+uptake|compound|start_entity uptake|nmod|end_entity	18
+channels|compound|start_entity channels|amod|end_entity	19
+channel|compound|start_entity channel|amod|end_entity	19
+channels|compound|start_entity channels|nummod|end_entity	19
+channels|compound|start_entity channels|appos|end_entity	19
+channel|compound|start_entity channel|appos|end_entity	19
+channels|compound|start_entity channels|compound|end_entity	19
+channel|compound|start_entity channel|compound|end_entity	19
+channel|compound|start_entity channel|nsubj|end_entity	19
+start_entity|nsubj|modulation modulation|nmod|end_entity	19
+channel|compound|start_entity end_entity|dobj|channel	19
+channels|compound|start_entity end_entity|dobj|channels	19
+channel|compound|start_entity end_entity|dep|channel	19
+channel|compound|start_entity end_entity|appos|channel	19
+start_entity|dobj|1 1|appos|end_entity	19
+start_entity|dobj|transporter transporter|appos|end_entity	19
+transporter|amod|start_entity transporter|appos|end_entity	19
+transporter|compound|start_entity transporter|amod|end_entity	19
+transporter|compound|start_entity end_entity|appos|transporter	19
+expression|nmod|start_entity transporters|nsubj|expression transporters|dobj|end_entity	19
+transporters|compound|start_entity transporters|amod|end_entity	19
+distribution|nmod|start_entity transporters|nsubj|distribution transporters|dobj|end_entity	19
+regulation|nmod|start_entity transporters|nsubj|regulation transporters|dobj|end_entity	19
+transporters|compound|start_entity transporters|compound|end_entity	19
+transporters|compound|start_entity transporters|dep|end_entity	19
+transporters|compound|start_entity transporters|appos|end_entity	19
+gene|compound|start_entity gene|amod|end_entity	19
+start_entity|dobj|expression expression|compound|end_entity	19
+expression|compound|start_entity expression|appos|end_entity	19
+expression|amod|start_entity expression|compound|end_entity	19
+function|compound|start_entity function|compound|end_entity	19
+start_entity|nsubj|localization localization|nmod|end_entity	19
+transporter|compound|start_entity transporter|nsubj|end_entity	19
+gene|compound|start_entity gene|appos|end_entity	19
+transporter|compound|start_entity transporter|compound|end_entity	19
+transporter|compound|start_entity transporter|appos|end_entity	19
+gene|compound|start_entity gene|compound|end_entity	19
+expression|compound|start_entity expression|compound|end_entity	19
+mrna|compound|start_entity mrna|compound|end_entity	19
+mrna|amod|start_entity mrna|compound|end_entity	20
+activity|amod|start_entity activity|appos|end_entity	20
+start_entity|dobj|activity activity|appos|end_entity	20
+synthase|amod|start_entity gene|amod|synthase gene|appos|end_entity	20
+synthase|compound|start_entity synthase|appos|end_entity	20
+synthase|amod|start_entity synthase|appos|end_entity	20
+polymorphism|amod|start_entity polymorphism|appos|end_entity	20
+reductase|amod|start_entity reductase|appos|end_entity	20
+dehydrogenase|compound|start_entity dehydrogenase|appos|end_entity	20
+dehydrogenase|amod|start_entity dehydrogenase|appos|end_entity	20
+start_entity|dobj|polymorphism polymorphism|appos|end_entity	20
+gene|amod|start_entity gene|appos|end_entity	20
+polymorphisms|amod|start_entity polymorphisms|appos|end_entity	20
+expression|amod|start_entity expression|appos|end_entity	20
+genes|amod|start_entity genes|appos|end_entity	20
+protein|compound|start_entity end_entity|dep|protein	21
+transporter|amod|start_entity end_entity|appos|transporter	21
+cotransporter|compound|start_entity cotransporter|appos|end_entity	21
+protein|compound|start_entity protein|appos|end_entity	21
+transporters|amod|start_entity transporters|appos|end_entity	21
+binding|amod|start_entity protein|amod|binding protein|appos|end_entity	21
+protein|amod|start_entity protein|appos|end_entity	21
+protein|compound|start_entity end_entity|appos|protein	21
+start_entity|dobj|protein protein|appos|end_entity	21
+protein|amod|start_entity end_entity|appos|protein	21
+start_entity|nsubj|effects effects|nmod|end_entity	22
+start_entity|nsubj|study study|nmod|end_entity	23
+uptake|amod|start_entity uptake|nmod|end_entity	24
+factor|amod|start_entity end_entity|appos|factor	24
+factor|amod|start_entity factor|nsubj|end_entity	24
+factor|amod|start_entity factor|appos|end_entity	24
+polymorphisms|compound|start_entity polymorphisms|nummod|end_entity	24
+polymorphisms|compound|start_entity polymorphisms|nmod|end_entity	24
+polymorphisms|compound|start_entity polymorphisms|nmod|gene gene|compound|end_entity	24
+region|amod|start_entity region|nmod|end_entity	24
+domain|compound|start_entity domain|amod|end_entity	24
+domains|amod|start_entity domains|nmod|end_entity	24
+factor|amod|start_entity factor|amod|end_entity	24
+factor|compound|start_entity factor|compound|end_entity	24
+factor|amod|start_entity factor|nmod|end_entity	24
+sequence|amod|start_entity end_entity|nsubj|sequence	24
+sequences|amod|start_entity sequences|nmod|end_entity	24
+sequence|amod|start_entity sequence|nmod|end_entity	24
+sequence|amod|start_entity end_entity|dep|sequence	24
+start_entity|dobj|sequence sequence|nmod|end_entity	24
+moiety|amod|start_entity moiety|nmod|end_entity	24
+start_entity|nsubj|increases increases|amod|end_entity	24
+transporter|amod|start_entity transporter|compound|end_entity	24
+finger|compound|start_entity finger|nmod|end_entity	24
+fingers|compound|start_entity fingers|nmod|end_entity	24
+finger|compound|start_entity finger|compound|end_entity	24
+signaling|nmod|start_entity end_entity|acl|signaling	25
+start_entity|dobj|activity activity|amod|end_entity	25
+synthase|amod|start_entity synthase|dep|end_entity	25
+start_entity|acl|produced produced|nmod|end_entity	25
+start_entity|dobj|gene gene|appos|end_entity	25
+start_entity|dobj|inhibitors inhibitors|appos|end_entity	25
+inhibitors|amod|start_entity inhibitors|appos|end_entity	25
+inhibitors|amod|start_entity inhibitors|nmod|end_entity	26
+activation|compound|start_entity activation|amod|end_entity	27
+mutation|compound|start_entity mutation|compound|end_entity	27
+start_entity|nsubj|changes changes|nmod|end_entity	27
+start_entity|nsubj|effect effect|nmod|end_entity	27
+start_entity|nsubj|relationship relationship|nmod|end_entity	27
+start_entity|nsubj|role role|nmod|end_entity	27
+pathway|compound|start_entity pathway|compound|end_entity	27
+residues|compound|start_entity residues|compound|end_entity	27
+start_entity|dobj|activity activity|nmod|end_entity	27
+residues|compound|start_entity residues|amod|end_entity	27
+start_entity|dobj|phosphorylation phosphorylation|nmod|end_entity	27
+phosphorylation|compound|start_entity phosphorylation|compound|end_entity	27
+phosphorylation|compound|start_entity phosphorylation|amod|end_entity	27
+phosphorylation|amod|start_entity phosphorylation|nmod|end_entity	27
+phosphorylation|compound|start_entity phosphorylation|nmod|end_entity	27
+phosphorylated|advmod|start_entity phosphorylated|nsubjpass|end_entity	27
+residues|amod|start_entity end_entity|nmod|residues	27
+phosphorylation|amod|start_entity phosphorylation|amod|end_entity	27
+nitration|amod|start_entity nitration|nmod|end_entity	27
+dephosphorylation|amod|start_entity dephosphorylation|nmod|end_entity	27
+phosphorylation|compound|start_entity phosphorylation|nummod|end_entity	27
+phosphorylation|amod|start_entity phosphorylation|nummod|end_entity	27
+phosphorylation|amod|start_entity stimulates|dobj|phosphorylation stimulates|nsubj|end_entity	27
+kinase|amod|start_entity kinase|appos|end_entity	27
+kinase|nsubj|start_entity kinase|dobj|end_entity	27
+kinase|amod|start_entity end_entity|dobj|kinase	27
+kinase|nsubj|start_entity kinase|ccomp|regulates regulates|nsubj|end_entity	27
+kinase|compound|start_entity kinase|appos|end_entity	27
+regulation|nmod|start_entity kinase|nsubj|regulation kinase|dobj|end_entity	27
+expression|nmod|start_entity kinase|nsubj|expression kinase|dobj|end_entity	27
+kinase|compound|start_entity end_entity|appos|kinase	27
+kinase|compound|start_entity kinase|compound|end_entity	27
+kinase|amod|start_entity kinase|compound|end_entity	27
+kinase|compound|start_entity end_entity|nmod|kinase	27
+phosphorylation|amod|start_entity regulates|dobj|phosphorylation regulates|nsubj|end_entity	27
+phosphorylation|amod|start_entity phosphorylation|appos|end_entity	27
+kinase|amod|start_entity end_entity|amod|kinase	27
+phosphorylation|amod|start_entity phosphorylation|nmod|kinase kinase|appos|end_entity	27
+start_entity|dobj|kinase kinase|appos|end_entity	27
+kinase|compound|start_entity end_entity|dep|kinase	27
+role|nmod|start_entity kinase|nsubj|role kinase|dobj|end_entity	27
+protein|compound|start_entity protein|amod|end_entity	27
+family|nmod|start_entity family|compound|end_entity	27
+start_entity|nsubj|roles roles|nmod|end_entity	27
+kinase|amod|start_entity kinase|nummod|end_entity	27
+start_entity|nsubj|receptor receptor|amod|end_entity	27
+start_entity|nsubj|association association|nmod|end_entity	27
+phosphorylation|amod|start_entity phosphorylation|compound|end_entity	27
+kinases|amod|start_entity kinases|compound|end_entity	27
+kinases|amod|start_entity family|nmod|kinases family|compound|end_entity	27
+kinases|compound|start_entity kinases|compound|end_entity	27
+start_entity|nsubj|receptor receptor|compound|end_entity	27
+activity|amod|start_entity activity|amod|end_entity	27
+kinase|compound|start_entity kinase|amod|end_entity	27
+kinase|amod|start_entity kinase|amod|end_entity	27
+inhibitor|compound|start_entity inhibitor|amod|end_entity	27
+kinases|compound|start_entity kinases|amod|end_entity	27
+phosphorylated|advmod|start_entity phosphorylated|nmod|end_entity	27
+kinases|nsubj|start_entity kinases|dobj|end_entity	27
+protein|compound|start_entity protein|compound|end_entity	27
+domain|amod|start_entity domain|nmod|end_entity	27
+activity|amod|start_entity activity|compound|end_entity	27
+start_entity|nsubj|protein protein|compound|end_entity	27
+activity|amod|start_entity activity|nmod|end_entity	27
+start_entity|nsubj|involvement involvement|nmod|end_entity	27
+activation|compound|start_entity activation|compound|end_entity	27
+activity|compound|start_entity activity|compound|end_entity	27
+start_entity|nsubj|regulation regulation|nmod|end_entity	27
+start_entity|nsubj|activation activation|nmod|end_entity	27
+activity|compound|start_entity activity|amod|end_entity	27
+phosphorylation|amod|start_entity end_entity|nmod|phosphorylation	27
+start_entity|nsubj|identification identification|nmod|end_entity	27
+start_entity|nsubj|inhibition inhibition|nmod|end_entity	27
+start_entity|nsubj|stimulation stimulation|nmod|end_entity	27
+expression|amod|start_entity expression|amod|end_entity	28
+sites|amod|start_entity sites|nmod|end_entity	29
+kinase|compound|start_entity kinase|nmod|end_entity	29
+phosphatase|amod|start_entity phosphatase|nummod|end_entity	29
+phosphatase|compound|start_entity phosphatase|compound|end_entity	29
+phosphatase|compound|start_entity phosphatase|amod|end_entity	29
+phosphatase|compound|start_entity phosphatase|appos|end_entity	29
+phosphatase|compound|start_entity end_entity|appos|phosphatase	29
+site|amod|start_entity site|nmod|end_entity	29
+start_entity|nsubj|interaction interaction|nmod|end_entity	29
+phosphorylation|amod|start_entity induces|dobj|phosphorylation induces|nsubj|end_entity	29
+residue|amod|start_entity residue|nmod|end_entity	29
+residues|amod|start_entity residues|nmod|end_entity	29
+residues|compound|start_entity residues|nmod|end_entity	29
+production|compound|start_entity production|amod|end_entity	30
+inhibition|amod|start_entity inhibition|nmod|end_entity	30
+-rsb-|compound|start_entity -rsb-|amod|end_entity	30
+inhibitor|amod|start_entity inhibitor|amod|end_entity	30
+inhibition|compound|start_entity inhibition|compound|end_entity	30
+inhibitors|amod|start_entity inhibitors|compound|end_entity	30
+inhibitor|amod|start_entity inhibitor|compound|end_entity	30
+inhibitors|compound|start_entity inhibitors|compound|end_entity	30
+inhibitor|compound|start_entity inhibitor|compound|end_entity	30
+inhibitors|amod|start_entity inhibitors|amod|end_entity	30
+inhibitor|amod|start_entity inhibitor|nmod|end_entity	30
+start_entity|nsubj|action action|nmod|end_entity	30
+phosphatases|compound|start_entity phosphatases|compound|end_entity	30
+pathway|amod|start_entity pathway|compound|end_entity	30
+activation|amod|start_entity activation|nmod|end_entity	30
+activation|amod|start_entity activation|amod|end_entity	30
+phosphorylation|compound|start_entity induces|dobj|phosphorylation induces|nsubj|end_entity	30
+domain|compound|start_entity domain|compound|end_entity	30
+start_entity|nsubj|efficacy efficacy|nmod|end_entity	30
+inhibitors|compound|start_entity inhibitors|amod|end_entity	30

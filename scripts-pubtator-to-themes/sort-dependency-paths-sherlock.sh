@@ -1,0 +1,7 @@
+sbatch --job-name=chemical-disease -p rbaltman  --mail-user=blpercha@alumni.stanford.edu --mail-type=FAIL --mem-per-cpu=15000 --time=3-00:00:00 --wrap="sort -k3,3 -k5,5 /home/groups/rbaltman/blpercha/experiments-pubtator-v-20190915/part-ii-dependency-paths-chemical-disease.txt > /home/groups/rbaltman/blpercha/experiments-pubtator-v-20190915/part-ii-dependency-paths-chemical-disease-sorted.txt" 
+
+sbatch --job-name=chemical-gene -p rbaltman  --mail-user=blpercha@alumni.stanford.edu --mail-type=FAIL --mem-per-cpu=15000 --time=3-00:00:00 --wrap="sort -k3,3 -k5,5 /home/groups/rbaltman/blpercha/experiments-pubtator-v-20190915/part-ii-dependency-paths-chemical-gene.txt > /home/groups/rbaltman/blpercha/experiments-pubtator-v-20190915/part-ii-dependency-paths-chemical-gene-sorted.txt" 
+
+sbatch --job-name=gene-disease -p rbaltman  --mail-user=blpercha@alumni.stanford.edu --mail-type=FAIL --mem-per-cpu=15000 --time=3-00:00:00 --wrap="sort -k3,3 -k5,5 /home/groups/rbaltman/blpercha/experiments-pubtator-v-20190915/part-ii-dependency-paths-gene-disease.txt > /home/groups/rbaltman/blpercha/experiments-pubtator-v-20190915/part-ii-dependency-paths-gene-disease-sorted.txt" 
+
+sbatch --job-name=gene-gene -p rbaltman  --mail-user=blpercha@alumni.stanford.edu --mail-type=FAIL --mem-per-cpu=15000 --time=3-00:00:00 --wrap="sort -k3,3 -k5,5 /home/groups/rbaltman/blpercha/experiments-pubtator-v-20190915/part-ii-dependency-paths-gene-gene.txt > /home/groups/rbaltman/blpercha/experiments-pubtator-v-20190915/part-ii-dependency-paths-gene-gene-sorted.txt" 

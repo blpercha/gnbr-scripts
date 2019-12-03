@@ -1,0 +1,739 @@
+identification|nmod|start_entity identification|nmod|end_entity	1
+patterns|nmod|start_entity patterns|nmod|end_entity	1
+distribution|nmod|start_entity distribution|nmod|end_entity	1
+gene|compound|start_entity polymorphisms|nmod|gene polymorphisms|nmod|end_entity	1
+value|nmod|start_entity value|nmod|patients patients|nmod|end_entity	1
+start_entity|nmod|detection detection|nmod|end_entity	1
+secretion|compound|start_entity secretion|nmod|cells cells|compound|end_entity	1
+production|compound|start_entity production|nmod|cells cells|compound|end_entity	1
+gene|compound|start_entity caused|nmod|gene caused|nsubj|end_entity	2
+relationship|nmod|start_entity relationship|nmod|end_entity	2
+-rsb-|compound|start_entity -rsb-|compound|end_entity	2
+model|compound|start_entity model|compound|end_entity	2
+signaling|nsubj|start_entity signaling|nmod|end_entity	2
+gene|compound|start_entity polymorphism|nmod|gene polymorphism|nmod|end_entity	2
+suppression|nmod|start_entity suppression|nmod|end_entity	2
+start_entity|nmod|model model|nmod|end_entity	2
+start_entity|dep|target target|nmod|end_entity	2
+correlates|amod|start_entity correlates|nmod|end_entity	2
+effects|nmod|start_entity effects|nmod|patients patients|nmod|end_entity	2
+levels|compound|start_entity association|nmod|levels association|nmod|end_entity	2
+receptors|compound|start_entity receptors|nmod|end_entity	2
+regulation|compound|start_entity regulation|nmod|end_entity	2
+resistance|compound|start_entity association|nmod|resistance association|nmod|end_entity	2
+resistance|compound|start_entity associated|nmod|resistance associated|nsubjpass|end_entity	2
+response|nmod|start_entity response|nmod|end_entity	2
+levels|compound|start_entity serum|dobj|levels serum|nmod|end_entity	2
+mice|amod|start_entity end_entity|nmod|mice	2
+levels|nmod|start_entity levels|nmod|end_entity	2
+levels|nmod|start_entity levels|nmod|patients patients|nmod|end_entity	2
+using|dobj|start_entity using|nmod|end_entity	2
+resistance|compound|start_entity role|nmod|resistance role|nmod|end_entity	2
+release|nsubj|start_entity release|nmod|end_entity	2h
+secretion|amod|start_entity secretion|nmod|end_entity	2h
+start_entity|nmod|therapy therapy|nmod|end_entity	2h
+start_entity|nmod|-rsb- -rsb-|compound|end_entity	2h
+studies|nmod|start_entity studies|nmod|end_entity	2h
+patients|nmod|start_entity patients|compound|end_entity	2h
+influence|nmod|start_entity influence|nmod|end_entity	2h
+response|compound|start_entity response|nmod|patients patients|nmod|end_entity	2h
+serum|dobj|start_entity serum|nmod|end_entity	2h
+relation|nmod|start_entity relation|nmod|end_entity	2h
+start_entity|nmod|children children|nmod|end_entity	2h
+start_entity|nmod|subjects subjects|nmod|end_entity	2h
+sensitivity|nmod|start_entity sensitivity|nmod|end_entity	2h
+action|compound|start_entity action|nmod|end_entity	2h
+metabolism|compound|start_entity metabolism|nmod|end_entity	2h
+resistance|compound|start_entity end_entity|appos|resistance	2h
+resistance|compound|start_entity resistance|appos|end_entity	2h
+resistance|compound|start_entity resistance|nmod|patients patients|nmod|end_entity	2h
+resistance|compound|start_entity resistance|nmod|end_entity	2h
+resistance|compound|start_entity end_entity|nmod|resistance	2h
+resistance|amod|start_entity resistance|nmod|end_entity	2h
+response|compound|start_entity response|nmod|end_entity	2h
+sensitivity|compound|start_entity sensitivity|nmod|end_entity	2h
+secretion|compound|start_entity secretion|nmod|end_entity	2h
+secretion|nsubj|start_entity secretion|nmod|end_entity	2h
+production|compound|start_entity production|nmod|end_entity	2h
+levels|compound|start_entity associated|nsubjpass|levels associated|nmod|end_entity	2h
+use|nmod|start_entity use|nmod|end_entity	2h
+levels|compound|start_entity end_entity|nmod|levels	2h
+therapy|compound|start_entity end_entity|nmod|therapy	2h
+concentration|compound|start_entity concentration|nmod|end_entity	2h
+comparison|nmod|start_entity comparison|nmod|end_entity	2h
+start_entity|dep|therapy therapy|nmod|end_entity	2h
+levels|compound|start_entity levels|compound|end_entity	2h
+ratio|compound|start_entity ratio|nmod|end_entity	2h
+start_entity|nmod|men men|nmod|end_entity	2h
+start_entity|nmod|patients patients|nmod|-rsb- -rsb-|amod|end_entity	2h
+start_entity|nmod|-rsb- -rsb-|amod|end_entity	2h
+levels|compound|start_entity end_entity|nsubj|levels	2h
+start_entity|nmod|serum serum|nmod|patients patients|nmod|end_entity	2h
+variation|nmod|start_entity variation|nmod|end_entity	2h
+system|compound|start_entity system|nmod|end_entity	2h
+using|dobj|start_entity end_entity|acl|using	2h
+antibodies|compound|start_entity antibodies|nmod|end_entity	2h
+levels|compound|start_entity levels|nmod|patients patients|amod|end_entity	2h
+role|nmod|start_entity role|nmod|patients patients|nmod|end_entity	2
+start_entity|nmod|treatment treatment|nmod|patients patients|nmod|end_entity	2
+treatment|amod|start_entity treatment|nmod|end_entity	2
+improves|nsubj|start_entity improves|nmod|end_entity	2j
+associated|nsubj|start_entity associated|nmod|end_entity	2j
+associated|nmod|start_entity end_entity|acl|associated	2j
+effect|nmod|start_entity effect|nmod|-rsb- -rsb-|compound|end_entity	2j
+start_entity|dobj|levels levels|nmod|end_entity	2j
+effect|nmod|start_entity effect|nmod|patients patients|amod|end_entity	2j
+cells|amod|start_entity cells|nmod|end_entity	2j
+therapy|nmod|start_entity therapy|nmod|end_entity	2j
+start_entity|nmod|chemotherapy chemotherapy|nmod|end_entity	2j
+effect|nmod|start_entity effect|nmod|patients patients|nmod|end_entity	2j
+control|nmod|start_entity control|nmod|end_entity	2j
+start_entity|dep|implications implications|nmod|end_entity	2j
+therapy|compound|start_entity therapy|nmod|patients patients|compound|end_entity	2j
+start_entity|nmod|adults adults|nmod|end_entity	2j
+effects|nmod|start_entity end_entity|dep|effects	2j
+start_entity|dobj|therapy therapy|nmod|end_entity	2j
+use|nmod|start_entity use|nmod|treatment treatment|nmod|end_entity	2j
+concentration|compound|start_entity concentration|nmod|patients patients|nmod|end_entity	2j
+administration|compound|start_entity administration|nmod|end_entity	2j
+therapy|compound|start_entity effect|nmod|therapy effect|nmod|end_entity	2j
+resistance|compound|start_entity end_entity|nsubj|resistance	2j
+release|compound|start_entity release|nmod|end_entity	2j
+therapy|amod|start_entity therapy|nmod|patients patients|nmod|end_entity	2j
+treatment|compound|start_entity treatment|nmod|patients patients|nmod|end_entity	2j
+efficacy|nmod|start_entity efficacy|nmod|end_entity	2j
+study|nmod|start_entity study|nmod|patients patients|nmod|end_entity	2j
+start_entity|nmod|patient patient|nmod|end_entity	2j
+therapy|compound|start_entity therapy|nmod|end_entity	2j
+treated|nmod|start_entity treated|nsubj|end_entity	2j
+treatment|compound|start_entity end_entity|nmod|treatment	2j
+start_entity|nmod|management management|nmod|end_entity	2j
+treated|nmod|start_entity end_entity|acl|treated	2j
+infusion|compound|start_entity infusion|nmod|end_entity	2j
+therapy|compound|start_entity therapy|nmod|patients patients|nmod|end_entity	2j
+impact|nmod|start_entity impact|nmod|end_entity	3
+role|appos|start_entity role|nmod|end_entity	3
+start_entity|nmod|patient patient|compound|end_entity	3
+start_entity|nmod|cells cells|nmod|end_entity	3
+associated|nsubjpass|start_entity associated|nmod|patients patients|nmod|end_entity	3
+start_entity|nmod|patients patients|nmod|end_entity	3
+start_entity|nmod|patients patients|compound|end_entity	3
+therapy|amod|start_entity therapy|nmod|end_entity	3
+study|nmod|start_entity study|nmod|end_entity	3
+trial|nmod|start_entity trial|nmod|end_entity	3
+treatment|compound|start_entity treatment|nmod|end_entity	3
+start_entity|nmod|treatment treatment|nmod|end_entity	3
+treatment|nmod|start_entity treatment|nmod|end_entity	3
+start_entity|nmod|patients patients|nmod|-rsb- -rsb-|compound|end_entity	4
+role|nmod|start_entity end_entity|dep|role	4
+regulation|nmod|start_entity regulation|nmod|end_entity	4
+inhibition|compound|start_entity end_entity|nmod|inhibition	4
+induction|nmod|start_entity induction|nmod|end_entity	4
+induced|nmod|start_entity induced|nsubj|end_entity	4
+contributes|nsubj|start_entity contributes|nmod|end_entity	4
+induced|nmod|start_entity end_entity|acl|induced	4
+protects|nsubj|start_entity protects|nmod|end_entity	4
+associated|nmod|start_entity associated|nsubj|end_entity	4
+start_entity|nmod|mediator mediator|nmod|end_entity	4
+plays|nsubj|start_entity plays|dobj|role role|nmod|end_entity	4
+exacerbates|nsubj|start_entity exacerbates|dobj|end_entity	4
+regulation|nmod|start_entity end_entity|nmod|regulation	4
+required|nsubjpass|start_entity required|nmod|end_entity	4
+induces|nsubj|start_entity induces|dobj|end_entity	4
+promotes|nsubj|start_entity promotes|dobj|end_entity	4
+inhibits|nsubj|start_entity inhibits|dobj|end_entity	4
+involvement|nmod|start_entity involvement|nmod|end_entity	4
+roles|nmod|start_entity roles|nmod|end_entity	4
+expression|compound|start_entity effects|nmod|expression effects|nmod|end_entity	4
+enhances|nsubj|start_entity enhances|dobj|end_entity	4
+role|nmod|start_entity role|nmod|end_entity	4
+gene|amod|start_entity association|nmod|gene polymorphism|nsubj|association polymorphism|nmod|end_entity	4
+levels|amod|start_entity levels|nmod|patients patients|compound|end_entity	5
+protein|amod|start_entity protein|nmod|end_entity	5
+level|amod|start_entity level|nmod|end_entity	5
+inhibition|nmod|start_entity inhibition|nmod|end_entity	5
+system|amod|start_entity system|nmod|end_entity	5
+gene|appos|start_entity gene|nmod|end_entity	5
+expression|appos|start_entity expression|nmod|end_entity	5
+expression|nsubj|start_entity expression|nmod|end_entity	5
+interactions|nmod|start_entity interactions|nmod|end_entity	5
+levels|compound|start_entity levels|nmod|patients patients|nmod|end_entity	5
+activity|amod|start_entity activity|nmod|end_entity	5
+antagonists|compound|start_entity antagonists|nmod|end_entity	5
+activity|compound|start_entity activity|nmod|patients patients|nmod|end_entity	6
+activity|compound|start_entity activity|nmod|end_entity	6
+receptors|amod|start_entity receptors|nmod|end_entity	6
+antagonists|amod|start_entity antagonists|nmod|end_entity	6
+expression|nmod|start_entity end_entity|nsubj|expression	6
+start_entity|nmod|rats rats|compound|end_entity	6
+effect|nmod|start_entity end_entity|nsubj|effect	6
+effects|nmod|start_entity effects|nmod|patients patients|amod|end_entity	6
+start_entity|nmod|patients patients|amod|end_entity	6
+start_entity|nmod|subjects subjects|amod|end_entity	6
+start_entity|nmod|children children|amod|end_entity	6
+start_entity|nmod|women women|amod|end_entity	6
+gene|amod|start_entity polymorphisms|nmod|gene polymorphisms|nmod|end_entity	6
+levels|amod|start_entity levels|nmod|patients patients|nmod|end_entity	6
+and|compound|start_entity end_entity|nsubj|and	6
+start_entity|nmod|prevention prevention|nmod|end_entity	6
+therapy|amod|start_entity end_entity|nmod|therapy	6
+mediator|nsubj|start_entity mediator|nmod|end_entity	6
+start_entity|nmod|rats rats|amod|end_entity	6
+cells|compound|start_entity end_entity|nmod|cells	6
+levels|amod|start_entity levels|nmod|patients patients|amod|end_entity	6
+levels|amod|start_entity serum|dobj|levels serum|nmod|end_entity	6
+levels|nmod|start_entity levels|nmod|patients patients|amod|end_entity	6
+start_entity|nmod|mice mice|amod|end_entity	6
++|nsubj|start_entity +|nmod|end_entity	6
+cells|compound|start_entity cells|amod|end_entity	6
+cells|compound|start_entity cells|nmod|end_entity	6
+t|compound|start_entity end_entity|nmod|t	6
+level|compound|start_entity level|nmod|end_entity	7
+biomarker|nsubj|start_entity biomarker|nmod|end_entity	7
+start_entity|dep|biomarker biomarker|nmod|end_entity	7
+marker|nsubj|start_entity marker|nmod|end_entity	7
+predictor|nsubj|start_entity predictor|nmod|end_entity	7
+predicts|nsubj|start_entity predicts|dobj|end_entity	7
+start_entity|nmod|biomarker biomarker|nmod|end_entity	7
+prevents|nsubj|start_entity prevents|dobj|end_entity	7
+start_entity|nmod|indicator indicator|nmod|end_entity	7
+concentrations|nmod|start_entity concentrations|nmod|end_entity	7
+start_entity|nmod|prediction prediction|nmod|end_entity	7
+start_entity|nmod|dogs dogs|nmod|end_entity	7
+start_entity|nmod|predictor predictor|nmod|end_entity	7
+correlation|nmod|start_entity correlation|nmod|patients patients|nmod|end_entity	7
+significance|nmod|start_entity significance|nmod|patients patients|compound|end_entity	7
+changes|nmod|start_entity changes|nmod|end_entity	7
+evaluation|nmod|start_entity evaluation|nmod|end_entity	7
+circulating|dobj|start_entity circulating|nmod|patients patients|nmod|end_entity	7
+levels|compound|start_entity effects|nmod|levels effects|nmod|end_entity	7
+utility|nmod|start_entity utility|nmod|end_entity	7
+predicts|nsubj|start_entity predicts|nmod|end_entity	7
+role|nmod|start_entity end_entity|nsubj|role	7
+concentrations|amod|start_entity concentrations|nmod|end_entity	7
+significance|nmod|start_entity significance|nmod|-rsb- -rsb-|compound|end_entity	7
+start_entity|nmod|diagnosis diagnosis|nmod|end_entity	7
+start_entity|nmod|marker marker|nmod|end_entity	7
+factor|nsubj|start_entity factor|nmod|end_entity	8
+associated|nsubjpass|start_entity associated|nmod|end_entity	8
+association|nmod|start_entity association|nmod|patients patients|nmod|end_entity	8
+effects|nmod|start_entity effects|nmod|end_entity	8
+effect|nmod|start_entity effect|nmod|end_entity	8
+involved|nsubjpass|start_entity involved|nmod|end_entity	8
+role|nmod|start_entity role|nmod|development development|nmod|end_entity	8
+role|nmod|start_entity role|nmod|pathogenesis pathogenesis|nmod|end_entity	8
+start_entity|nmod|rats rats|nmod|end_entity	8
+start_entity|nmod|development development|nmod|end_entity	8
+start_entity|nmod|women women|nmod|end_entity	8
+regulates|nsubj|start_entity regulates|nmod|end_entity	9
+regulates|nsubj|start_entity regulates|dobj|end_entity	9
+mice|compound|start_entity end_entity|nmod|mice	9
+production|nmod|start_entity production|nmod|end_entity	9
+ameliorates|nsubj|start_entity ameliorates|dobj|end_entity	9
+reduces|nsubj|start_entity reduces|dobj|end_entity	9
+attenuates|nsubj|start_entity attenuates|dobj|end_entity	9
+associated|nmod|start_entity associated|nsubjpass|end_entity	9
+levels|amod|start_entity levels|nmod|end_entity	9
+evidence|nmod|start_entity evidence|nmod|end_entity	9
+elevated|nsubjpass|start_entity elevated|nmod|end_entity	9
+levels|compound|start_entity effect|nmod|levels effect|nmod|patients patients|nmod|end_entity	9
+start_entity|nmod|pathogenesis pathogenesis|nmod|end_entity	9
+start_entity|dep|link link|nmod|end_entity	9
+responses|compound|start_entity responses|nmod|end_entity	9
+induction|amod|start_entity induction|nmod|end_entity	9
+protein|amod|start_entity expression|nmod|protein expression|nmod|end_entity	9
+start_entity|appos|marker marker|nmod|end_entity	9
+response|amod|start_entity response|nmod|end_entity	9
+levels|compound|start_entity serum|dobj|levels serum|nmod|patients patients|nmod|end_entity	9
+start_entity|nmod|factor factor|nmod|end_entity	9
+predicts|nsubj|start_entity predicts|nmod|patients patients|nmod|end_entity	9
+activity|amod|start_entity activity|nmod|patients patients|nmod|end_entity	9
+circulating|xcomp|start_entity circulating|nmod|end_entity	9
+alterations|nmod|start_entity alterations|nmod|end_entity	10
+-rsb-|amod|start_entity -rsb-|compound|end_entity	10
+targeting|nmod|start_entity targeting|nmod|end_entity	10
+signaling|nsubj|start_entity signaling|nmod|cells cells|compound|end_entity	10
+mutations|amod|start_entity mutations|nmod|patients patients|compound|end_entity	10
+mutation|compound|start_entity mutation|compound|end_entity	10
+mutations|compound|start_entity mutations|nmod|patients patients|compound|end_entity	10
+testing|amod|start_entity testing|nmod|end_entity	10
+mutation|amod|start_entity end_entity|nmod|mutation	10
+mutations|amod|start_entity end_entity|nmod|mutations	10
+mutations|compound|start_entity end_entity|nmod|mutations	10
+inhibitors|amod|start_entity inhibitors|nmod|patients patients|nmod|end_entity	10
+patients|nmod|start_entity patients|amod|end_entity	10
+mutations|compound|start_entity mutations|compound|end_entity	10
+mutations|amod|start_entity mutations|nmod|end_entity	10
+mutation|amod|start_entity mutation|nmod|end_entity	10
+status|amod|start_entity status|nmod|end_entity	10
+amplification|amod|start_entity amplification|nmod|end_entity	10
+testing|compound|start_entity testing|nmod|end_entity	10
+-rsb-|compound|start_entity end_entity|nmod|-rsb-	10
+promoter|amod|start_entity promoter|nmod|end_entity	10
+mutations|amod|start_entity mutations|nmod|patients patients|nmod|end_entity	10
+analysis|nmod|start_entity analysis|nmod|patients patients|nmod|end_entity	10
+start_entity|acl|signaling signaling|nmod|end_entity	10
+gene|amod|start_entity gene|nmod|end_entity	10
+inhibitor|amod|start_entity inhibitor|nmod|end_entity	10
+inhibitor|amod|start_entity inhibitor|nmod|treatment treatment|nmod|end_entity	10
+inhibition|amod|start_entity inhibition|nmod|end_entity	10
+inhibitors|compound|start_entity inhibitors|nmod|end_entity	10
+inhibitors|nsubj|start_entity inhibitors|nmod|end_entity	10
+inhibitors|amod|start_entity inhibitors|nmod|end_entity	10
+inhibitors|amod|start_entity inhibitors|nmod|treatment treatment|nmod|end_entity	10
+rearrangement|compound|start_entity rearrangement|nmod|end_entity	11
+inhibition|nsubj|start_entity inhibition|nmod|end_entity	11
+start_entity|nmod|target target|nmod|end_entity	12
+signaling|compound|start_entity signaling|nmod|end_entity	12
+start_entity|nmod|growth growth|compound|end_entity	12
+start_entity|dep|target target|nmod|therapy therapy|compound|end_entity	12
+induces|nsubj|start_entity induces|nmod|cells cells|compound|end_entity	12
+inhibitor|compound|start_entity inhibitor|nmod|treatment treatment|nmod|end_entity	12
+start_entity|acl|signalling signalling|nmod|end_entity	12
+inhibitors|nsubj|start_entity inhibitors|nmod|treatment treatment|nmod|end_entity	12
+inhibitors|compound|start_entity inhibitors|nmod|treatment treatment|nmod|end_entity	12
+inhibition|compound|start_entity inhibition|nmod|end_entity	12
+start_entity|nmod|therapy therapy|compound|end_entity	12
+inhibition|compound|start_entity inhibition|nmod|cells cells|compound|end_entity	12
+inhibitors|nsubj|start_entity inhibitors|nmod|therapy therapy|compound|end_entity	12
+start_entity|nmod|treatment treatment|compound|end_entity	12
+start_entity|nmod|target target|nmod|therapy therapy|compound|end_entity	12
+targeting|dobj|start_entity targeting|nmod|end_entity	12
+start_entity|acl|signaling signaling|nmod|cells cells|compound|end_entity	12
+function|nsubj|start_entity function|nmod|end_entity	13
+characterization|nmod|start_entity characterization|nmod|end_entity	13
+start_entity|nmod|cells cells|amod|end_entity	13
+gene|compound|start_entity role|nmod|gene role|nmod|end_entity	13
+oncoprotein|compound|start_entity oncoprotein|nmod|end_entity	13
+activation|nmod|start_entity activation|nmod|end_entity	13
+antibodies|amod|start_entity antibodies|nmod|end_entity	13
+start_entity|dep|expression expression|nmod|end_entity	13
+expression|nmod|start_entity expression|amod|end_entity	13
+protein|nummod|start_entity protein|nmod|end_entity	13
+determination|nmod|start_entity determination|nmod|end_entity	13
+role|nmod|start_entity role|nmod|development development|compound|end_entity	13
+patients|nummod|start_entity patients|compound|end_entity	13
+status|nummod|start_entity status|nmod|end_entity	13
+genes|compound|start_entity genes|nmod|end_entity	13
+polymorphisms|nsubj|start_entity polymorphisms|nmod|end_entity	13
+analysis|nmod|start_entity analysis|nmod|end_entity	13
+gene|compound|start_entity mutations|nmod|gene mutations|nmod|end_entity	13
+gene|compound|start_entity gene|nmod|end_entity	13
+mutations|compound|start_entity mutations|nmod|end_entity	13
+mutation|compound|start_entity mutation|nmod|end_entity	13
+associations|nmod|start_entity associations|nmod|end_entity	13
+mutation|nmod|start_entity mutation|nmod|end_entity	13
+mutations|compound|start_entity associated|nsubjpass|mutations associated|nmod|end_entity	13
+accumulation|compound|start_entity accumulation|nmod|end_entity	13
+spectrum|compound|start_entity spectrum|nmod|end_entity	13
+start_entity|dep|factor factor|nmod|end_entity	14
+mutation|compound|start_entity associated|nsubj|mutation associated|nmod|end_entity	14
+protein|appos|start_entity protein|compound|end_entity	14
+gene|appos|start_entity gene|compound|end_entity	14
+start_entity|appos|gene gene|compound|end_entity	14
+gene|compound|start_entity gene|compound|end_entity	14
+protein|compound|start_entity protein|compound|end_entity	14
+causes|nsubj|start_entity causes|dobj|end_entity	14
+model|compound|start_entity model|nmod|end_entity	14
+model|amod|start_entity model|nmod|end_entity	14
+gene|appos|start_entity gene|amod|end_entity	14
+protein|appos|start_entity protein|amod|end_entity	14
+start_entity|nmod|risk risk|nmod|end_entity	14
+gene|compound|start_entity association|nmod|gene association|nmod|end_entity	14
+variation|nmod|start_entity associated|nsubjpass|variation associated|nmod|end_entity	14
+variants|nsubj|start_entity variants|nmod|end_entity	14
+polymorphism|compound|start_entity polymorphism|nmod|risk risk|compound|end_entity	14
+genotype|compound|start_entity genotype|nmod|end_entity	14
+gene|compound|start_entity study|nmod|gene study|nmod|end_entity	14
+gene|nummod|start_entity gene|nmod|end_entity	14
+start_entity|acl|associated associated|nmod|end_entity	14
+carriers|compound|start_entity end_entity|nmod|carriers	14
+functions|nmod|start_entity functions|nmod|end_entity	14
+gene|compound|start_entity mutation|nmod|gene mutation|nmod|end_entity	14
+gene|compound|start_entity end_entity|nmod|gene	14
+gene|compound|start_entity mutation|nmod|gene end_entity|dep|mutation	14
+gene|compound|start_entity analysis|nmod|gene analysis|nmod|patients patients|nmod|end_entity	14
+gene|compound|start_entity mutation|nmod|gene mutation|nmod|family family|nmod|end_entity	14
+mutations|compound|start_entity cause|nsubj|mutations cause|nmod|end_entity	14
+caused|nmod|start_entity caused|nsubj|end_entity	14
+mutations|nmod|start_entity associated|nsubjpass|mutations associated|nmod|end_entity	14
+mutation|compound|start_entity mutation|acl|associated associated|nmod|end_entity	14
+mutations|nmod|start_entity cause|nsubj|mutations cause|dobj|end_entity	14
+mutations|nsubj|start_entity mutations|nmod|end_entity	14
+mutation|compound|start_entity mutation|acl|causing causing|dobj|end_entity	14
+due|nmod|start_entity mutations|amod|due mutations|amod|end_entity	14
+mutations|appos|start_entity mutations|nmod|end_entity	14
+mutations|compound|start_entity mutations|acl|causing causing|dobj|end_entity	14
+mutation|compound|start_entity causes|nsubj|mutation causes|dobj|end_entity	14
+mutation|nmod|start_entity causes|nsubj|mutation causes|dobj|end_entity	14
+gene|nsubj|start_entity gene|nmod|end_entity	14
+mutation|compound|start_entity associated|nsubjpass|mutation associated|nmod|end_entity	14
+gene|compound|start_entity gene|nmod|family family|nmod|end_entity	14
+mutation|compound|start_entity end_entity|dep|mutation	14
+start_entity|appos|gene gene|nmod|end_entity	14
+mutations|nummod|start_entity spectrum|nmod|mutations spectrum|nmod|end_entity	14
+mutations|nmod|start_entity associated|nsubj|mutations associated|nmod|end_entity	14
+screening|nmod|start_entity screening|nmod|end_entity	14
+mutations|nmod|start_entity cause|nsubj|mutations cause|nmod|end_entity	14
+gene|nummod|start_entity gene|nmod|-rsb- -rsb-|compound|end_entity	14
+mutation|compound|start_entity mutation|nmod|family family|nmod|end_entity	14
+mutations|compound|start_entity end_entity|dep|mutations	14
+mutation|compound|start_entity associated|nmod|mutation associated|nsubj|end_entity	14
+mutated|nsubjpass|start_entity mutated|nmod|end_entity	14
+mutation|compound|start_entity mutation|nmod|patients patients|nmod|end_entity	14
+mutations|nmod|start_entity mutations|nmod|patients patients|nmod|end_entity	14
+gene|compound|start_entity mutation|nmod|gene associated|nsubj|mutation associated|nmod|end_entity	14
+gene|compound|start_entity mutation|nmod|gene end_entity|nmod|mutation	14
+mutation|nsubj|start_entity mutation|nmod|end_entity	14
+due|nmod|start_entity due|advmod|end_entity	14
+gene|compound|start_entity alterations|nmod|gene alterations|nmod|end_entity	14
+patients|nmod|start_entity end_entity|nmod|patients	14
+mutations|compound|start_entity cause|nsubj|mutations cause|dobj|end_entity	14
+mutations|nummod|start_entity mutations|nmod|patients patients|compound|end_entity	14
+mutation|nummod|start_entity mutation|nmod|end_entity	14
+analysis|compound|start_entity analysis|nmod|end_entity	14
+mutation|compound|start_entity end_entity|nmod|mutation	14
+mutations|nummod|start_entity end_entity|nmod|mutations	14
+mutations|nummod|start_entity mutations|nmod|end_entity	14
+gene|compound|start_entity analysis|nmod|gene analysis|nmod|end_entity	14
+mutations|nummod|start_entity mutations|nmod|patients patients|nmod|end_entity	14
+protein|compound|start_entity detection|nmod|protein detection|nmod|end_entity	14
+mutations|compound|start_entity associated|nsubj|mutations associated|nmod|end_entity	14
+mutations|compound|start_entity mutations|nmod|patients patients|nmod|end_entity	14
+mutations|compound|start_entity detection|nmod|mutations detection|nmod|end_entity	14
+detection|nmod|start_entity mutations|nsubj|detection mutations|nmod|end_entity	14
+mutations|nmod|start_entity caused|nmod|mutations caused|nsubjpass|end_entity	14
+gene|compound|start_entity mutations|nmod|gene mutations|nmod|patients patients|nmod|end_entity	14
+gene|compound|start_entity detection|nmod|gene detection|nmod|end_entity	14
+mutations|nmod|start_entity mutations|nmod|end_entity	14
+gene|compound|start_entity gene|nmod|patients patients|compound|end_entity	14
+gene|compound|start_entity gene|nmod|patients patients|nmod|end_entity	14
+gene|compound|start_entity mutation|nmod|gene mutation|nmod|patient patient|nmod|end_entity	14
+gene|compound|start_entity mutations|nmod|gene associated|nsubj|mutations associated|nmod|end_entity	14
+gene|compound|start_entity mutations|nmod|gene end_entity|dep|mutations	14
+gene|compound|start_entity spectrum|nmod|gene spectrum|nmod|end_entity	14
+gene|compound|start_entity gene|nmod|patient patient|nmod|end_entity	14
+mutation|compound|start_entity mutation|nmod|patient patient|nmod|end_entity	14
+mutation|compound|start_entity caused|nmod|mutation caused|nsubj|end_entity	14
+gene|compound|start_entity mutation|nmod|gene associated|nsubjpass|mutation associated|nmod|end_entity	14
+mutations|compound|start_entity identification|nmod|mutations identification|nmod|end_entity	14
+levels|compound|start_entity levels|nmod|end_entity	15
+start_entity|dobj|levels levels|nmod|patients patients|nmod|end_entity	15
+concentrations|compound|start_entity concentrations|nmod|end_entity	15
+value|nmod|start_entity value|nmod|end_entity	15
+expression|compound|start_entity expression|nmod|-rsb- -rsb-|compound|end_entity	15
+expression|compound|start_entity expression|nmod|lines lines|compound|end_entity	15
+regulation|nmod|start_entity regulation|nmod|cells cells|compound|end_entity	15
+lines|compound|start_entity lines|compound|end_entity	15
+measurement|compound|start_entity measurement|nmod|end_entity	15
+test|nsubj|start_entity test|nmod|end_entity	15
+value|nmod|start_entity value|nmod|patients patients|compound|end_entity	15
+relevance|nmod|start_entity relevance|nmod|end_entity	15
+antibodies|nmod|start_entity antibodies|nmod|end_entity	15
+start_entity|nmod|progression progression|nmod|end_entity	16
+start_entity|nmod|markers markers|nmod|end_entity	16
+expression|compound|start_entity expression|nmod|line line|compound|end_entity	16
+usefulness|nmod|start_entity usefulness|nmod|end_entity	17
+concentrations|compound|start_entity concentrations|nmod|patients patients|nmod|end_entity	17
+level|compound|start_entity level|nmod|patients patients|nmod|end_entity	17
+targeting|xcomp|start_entity targeting|nmod|end_entity	17
+overexpression|amod|start_entity overexpression|nmod|end_entity	17
+overexpressed|nsubjpass|start_entity overexpressed|nmod|end_entity	17
+induces|nsubj|start_entity induces|nmod|end_entity	17
+expression|compound|start_entity expression|nmod|patients patients|compound|end_entity	17
+circulating|dobj|start_entity circulating|nmod|end_entity	17
+levels|compound|start_entity levels|nmod|patients patients|compound|end_entity	17
+start_entity|dep|marker marker|nmod|end_entity	17
+markers|nsubj|start_entity markers|nmod|end_entity	17
+line|amod|start_entity line|compound|end_entity	18
+cells|appos|start_entity cells|compound|end_entity	18
+line|compound|start_entity line|compound|end_entity	18
+line|appos|start_entity line|compound|end_entity	18
+cells|compound|start_entity cells|compound|end_entity	18
+cells|nummod|start_entity cells|compound|end_entity	18
+pathway|amod|start_entity pathway|nmod|end_entity	18
+expression|compound|start_entity end_entity|nmod|expression	18
+patients|compound|start_entity patients|compound|end_entity	18
+mutation|compound|start_entity mutation|nmod|patients patients|compound|end_entity	18
+alterations|nsubj|start_entity alterations|nmod|end_entity	18
+status|compound|start_entity status|nmod|end_entity	18
+mutations|compound|start_entity frequency|nmod|mutations frequency|nmod|end_entity	18
+mutations|compound|start_entity association|nmod|mutations association|nmod|end_entity	18
+alterations|compound|start_entity alterations|nmod|end_entity	18
+mutations|compound|start_entity analysis|nmod|mutations analysis|nmod|end_entity	18
+overexpression|compound|start_entity overexpression|nmod|end_entity	18
+overexpression|nmod|start_entity overexpression|nmod|end_entity	18
+protein|compound|start_entity protein|nmod|cells cells|compound|end_entity	18
+expression|compound|start_entity association|nmod|expression association|nmod|end_entity	18
+immunoreactivity|compound|start_entity immunoreactivity|nmod|end_entity	18
+gene|compound|start_entity expression|nmod|gene expression|nmod|end_entity	18
+expression|compound|start_entity expression|nmod|patients patients|nmod|end_entity	18
+expression|nummod|start_entity expression|nmod|end_entity	18
+protein|compound|start_entity protein|nmod|end_entity	18
+protein|compound|start_entity expression|nmod|protein expression|nmod|end_entity	18
+cells|nmod|start_entity cells|compound|end_entity	18
+detection|nmod|start_entity detection|nmod|patients patients|nmod|end_entity	18
+growth|compound|start_entity growth|compound|end_entity	18
+activation|compound|start_entity activation|nmod|cells cells|compound|end_entity	18
+gene|compound|start_entity gene|nmod|cells cells|compound|end_entity	18
+expression|compound|start_entity correlation|nmod|expression correlation|nmod|end_entity	18
+induction|nmod|start_entity induction|nmod|cells cells|compound|end_entity	18
+pathway|compound|start_entity pathway|nmod|cells cells|compound|end_entity	18
+inhibition|nmod|start_entity inhibition|nmod|cells cells|compound|end_entity	18
+expression|nmod|start_entity expression|compound|end_entity	18
+start_entity|nmod|cell cell|compound|end_entity	18
+start_entity|nmod|lines lines|compound|end_entity	18
+status|compound|start_entity end_entity|nmod|status	18
+deletion|compound|start_entity deletion|nmod|end_entity	18
+lines|amod|start_entity lines|compound|end_entity	18
+overexpression|nummod|start_entity overexpression|nmod|end_entity	18
+expression|nmod|start_entity expression|nmod|patients patients|compound|end_entity	18
+start_entity|nmod|progression progression|compound|end_entity	19
+proteins|compound|start_entity proteins|nmod|end_entity	19
+expression|nmod|start_entity expression|nmod|patients patients|nmod|end_entity	19
+mrna|compound|start_entity mrna|nmod|end_entity	19
+correlation|nmod|start_entity correlation|nmod|end_entity	19
+detection|nmod|start_entity detection|nmod|end_entity	19
+associated|nmod|start_entity associated|nmod|end_entity	19
+patients|amod|start_entity patients|compound|end_entity	19
+pathway|compound|start_entity pathway|nmod|end_entity	19
+expression|amod|start_entity expression|nmod|-rsb- -rsb-|compound|end_entity	19
+implications|nmod|start_entity implications|nmod|end_entity	19
+region|compound|start_entity region|nmod|end_entity	19
+contribution|nmod|start_entity contribution|nmod|end_entity	19
+start_entity|nmod|tissue tissue|compound|end_entity	19
+protein|amod|start_entity protein|nmod|cells cells|compound|end_entity	19
+gene|amod|start_entity gene|nmod|cells cells|compound|end_entity	19
+expression|compound|start_entity value|nmod|expression value|nmod|end_entity	19
+regulates|nsubj|start_entity regulates|nmod|cells cells|compound|end_entity	19
+start_entity|nmod|microenvironment microenvironment|compound|end_entity	19
+levels|amod|start_entity levels|nmod|cells cells|compound|end_entity	19
+receptor|compound|start_entity receptor|nmod|end_entity	19
+lines|nmod|start_entity lines|compound|end_entity	19
+genes|compound|start_entity analysis|nmod|genes analysis|nmod|end_entity	19
+expressing|dobj|start_entity cells|acl|expressing cells|compound|end_entity	19
+mediates|nsubj|start_entity mediates|nmod|end_entity	19
+activity|amod|start_entity activity|nmod|cells cells|compound|end_entity	19
+expression|amod|start_entity expression|nmod|line line|compound|end_entity	19
+inhibits|nsubj|start_entity inhibits|dobj|growth growth|compound|end_entity	19
+activation|nmod|start_entity activation|nmod|cells cells|compound|end_entity	19
+down-regulation|nmod|start_entity down-regulation|nmod|cells cells|compound|end_entity	19
+expression|compound|start_entity regulation|nmod|expression regulation|nmod|cells cells|compound|end_entity	19
+amplification|compound|start_entity amplification|nmod|end_entity	19
+start_entity|nmod|model model|compound|end_entity	20
+activity|nmod|start_entity activity|nmod|end_entity	20
+status|compound|start_entity status|nmod|patients patients|compound|end_entity	21
+methylation|amod|start_entity methylation|nmod|end_entity	21
+methylation|compound|start_entity methylation|nmod|end_entity	21
+genes|amod|start_entity genes|nmod|end_entity	21
+expression|nmod|start_entity associated|nsubjpass|expression associated|nmod|end_entity	21
+pathway|amod|start_entity pathway|nmod|cells cells|compound|end_entity	21
+targeting|dobj|start_entity targeting|nmod|cells cells|compound|end_entity	21
+role|nmod|start_entity role|nmod|cells cells|compound|end_entity	21
+activity|compound|start_entity activity|nmod|cells cells|compound|end_entity	21
+transcription|compound|start_entity transcription|nmod|cells cells|compound|end_entity	21
+effect|nmod|start_entity effect|nmod|cells cells|compound|end_entity	21
+mrna|amod|start_entity expression|nmod|mrna expression|nmod|end_entity	21
+expression|amod|start_entity expression|nmod|patients patients|compound|end_entity	21
+promoter|amod|start_entity promoter|nmod|cells cells|compound|end_entity	21
+expression|nmod|start_entity expression|nmod|-rsb- -rsb-|compound|end_entity	21
+levels|nmod|start_entity levels|nmod|patients patients|compound|end_entity	21
+expression|compound|start_entity analysis|nmod|expression analysis|nmod|end_entity	21
+regulates|nsubj|start_entity regulates|dobj|expression expression|nmod|cells cells|compound|end_entity	21
+expressions|nmod|start_entity expressions|nmod|end_entity	21
+role|nmod|start_entity role|nmod|progression progression|nmod|end_entity	21
+effects|nmod|start_entity effects|nmod|cells cells|compound|end_entity	21
+involvement|nmod|start_entity involvement|nmod|cells cells|compound|end_entity	21
+mrna|compound|start_entity mrna|nmod|cells cells|compound|end_entity	21
+expression|appos|start_entity expression|nmod|cells cells|compound|end_entity	21
+expression|nummod|start_entity expression|nmod|cells cells|compound|end_entity	21
+significance|nmod|start_entity significance|nmod|patients patients|nmod|end_entity	21
+activation|amod|start_entity activation|nmod|end_entity	21
+level|compound|start_entity level|compound|end_entity	21
+mrna|amod|start_entity mrna|nmod|cells cells|compound|end_entity	21
+start_entity|nmod|line line|compound|end_entity	21
+expression|nmod|start_entity expression|nmod|cells cells|compound|end_entity	21
+receptors|compound|start_entity receptors|nmod|cells cells|compound|end_entity	21
+promoter|compound|start_entity promoter|nmod|cells cells|compound|end_entity	21
+oncogene|compound|start_entity oncogene|nmod|end_entity	21
+sensitizes|nsubj|start_entity sensitizes|dobj|cells cells|compound|end_entity	21
+inhibition|nmod|start_entity inhibition|nmod|growth growth|compound|end_entity	21
+growth|nmod|start_entity growth|compound|end_entity	21
+targeting|dobj|start_entity end_entity|advcl|targeting	21
+start_entity|nmod|models models|compound|end_entity	21
+phosphorylation|compound|start_entity phosphorylation|nmod|cells cells|compound|end_entity	21
+inhibits|nsubj|start_entity inhibits|dobj|proliferation proliferation|nmod|cells cells|compound|end_entity	21
+activation|amod|start_entity activation|nmod|cells cells|compound|end_entity	21
+start_entity|nmod|development development|compound|end_entity	21
+expression|amod|start_entity expression|nmod|lines lines|compound|end_entity	21
+cells|amod|start_entity cells|compound|end_entity	21
+production|amod|start_entity production|nmod|cells cells|compound|end_entity	21
+expression|amod|start_entity regulation|nmod|expression regulation|nmod|cells cells|compound|end_entity	21
+role|nmod|start_entity role|nmod|progression progression|compound|end_entity	21
+expression|compound|start_entity expression|nmod|cells cells|compound|end_entity	21
+start_entity|nmod|cells cells|compound|end_entity	21
+expression|amod|start_entity expression|nmod|cells cells|compound|end_entity	21
+target|nsubj|start_entity target|nmod|end_entity	21
+polymorphism|compound|start_entity associated|nsubjpass|polymorphism associated|nmod|risk risk|nmod|end_entity	21
+expression|amod|start_entity significance|nmod|expression significance|nmod|end_entity	21
+mrna|amod|start_entity mrna|nmod|end_entity	21
+amplification|nmod|start_entity amplification|nmod|end_entity	21
+significance|nmod|start_entity significance|nmod|end_entity	21
+expression|amod|start_entity expression|nmod|end_entity	21
+expression|compound|start_entity expression|nmod|end_entity	21
+expression|nmod|start_entity expression|nmod|end_entity	21
+gene|compound|start_entity gene|nmod|-rsb- -rsb-|compound|end_entity	21
+suppresses|nsubj|start_entity suppresses|dobj|growth growth|compound|end_entity	21
+promotes|nsubj|start_entity promotes|dobj|growth growth|compound|end_entity	21
+expression|nmod|start_entity expression|nmod|lines lines|compound|end_entity	21
+cells|nummod|start_entity cells|nmod|end_entity	21
+start_entity|nmod|marker marker|compound|end_entity	21
+start_entity|nmod|gene gene|compound|end_entity	22
+start_entity|appos|suppressor suppressor|compound|end_entity	22
+suppressor|nsubj|start_entity suppressor|compound|end_entity	22
+protein|amod|start_entity protein|compound|end_entity	22
+suppressor|amod|start_entity suppressor|compound|end_entity	22
+function|compound|start_entity function|nmod|end_entity	22
+start_entity|dep|marker marker|compound|end_entity	22
+inhibits|nsubj|start_entity inhibits|nmod|end_entity	22
+start_entity|nmod|suppressor suppressor|compound|end_entity	22
+expression|amod|start_entity regulation|nmod|expression regulation|nmod|end_entity	22
+expression|amod|start_entity study|nmod|expression study|nmod|end_entity	22
+gene|nsubj|start_entity gene|compound|end_entity	22
+start_entity|dobj|mutations mutations|nmod|end_entity	22
+mutation|nmod|start_entity end_entity|nmod|mutation	22
+acts|nsubj|start_entity acts|nmod|suppressor suppressor|compound|end_entity	22
+functions|amod|start_entity functions|nmod|suppressor suppressor|compound|end_entity	22
+start_entity|dep|gene gene|compound|end_entity	22
+rearrangements|compound|start_entity rearrangements|nmod|end_entity	22
+start_entity|dep|mediator mediator|nmod|end_entity	22
+start_entity|dep|association association|nmod|end_entity	22
+expression|compound|start_entity expression|compound|end_entity	22
+genes|compound|start_entity genes|compound|end_entity	22
+mutation|compound|start_entity due|nmod|mutation end_entity|amod|due	22
+gene|amod|start_entity gene|compound|end_entity	22
+activity|compound|start_entity activity|compound|end_entity	22
+start_entity|dep|suppressor suppressor|compound|end_entity	22
+suppressor|compound|start_entity suppressor|compound|end_entity	22
+suppressor|appos|start_entity suppressor|compound|end_entity	22
+mediates|nsubj|start_entity mediates|dobj|end_entity	23
+activation|compound|start_entity activation|nmod|end_entity	23
+expression|acl|start_entity expression|nmod|end_entity	23
+patient|nmod|start_entity end_entity|nmod|patient	23
+activation|nsubj|start_entity activation|nmod|end_entity	23
+gene|compound|start_entity polymorphisms|nsubj|gene polymorphisms|nmod|end_entity	23
+variant|nmod|start_entity associated|nsubjpass|variant associated|nmod|end_entity	23
+polymorphism|nmod|start_entity associated|nsubjpass|polymorphism associated|nmod|end_entity	23
+polymorphisms|nmod|start_entity polymorphisms|nmod|end_entity	24
+polymorphisms|compound|start_entity polymorphisms|nmod|end_entity	24
+polymorphism|nmod|start_entity polymorphism|nmod|end_entity	24
+frequency|nmod|start_entity frequency|nmod|end_entity	24
+positive|amod|start_entity end_entity|amod|positive	24
+association|nmod|start_entity association|nmod|end_entity	25
+associated|nsubjpass|start_entity associated|nmod|risk risk|nmod|end_entity	25
+levels|amod|start_entity associated|nsubjpass|levels associated|nmod|end_entity	25
+gene|compound|start_entity associated|nsubjpass|gene associated|nmod|end_entity	25
+polymorphisms|compound|start_entity association|nmod|polymorphisms association|nmod|end_entity	25
+polymorphisms|amod|start_entity polymorphisms|nmod|end_entity	26
+gene|amod|start_entity polymorphisms|nsubj|gene polymorphisms|nmod|end_entity	26
+polymorphisms|amod|start_entity association|nmod|polymorphisms association|nmod|end_entity	26
+gene|compound|start_entity gene|amod|end_entity	26
+mutation|nmod|start_entity associated|nsubj|mutation associated|nmod|end_entity	26
+start_entity|nmod|family family|nmod|end_entity	26
+gene|amod|start_entity mutations|nmod|gene mutations|nmod|end_entity	26
+gene|compound|start_entity mutation|nmod|gene causes|nsubj|mutation causes|dobj|end_entity	26
+gene|amod|start_entity mutations|nmod|gene mutations|nmod|patients patients|nmod|end_entity	26
+polymorphisms|nmod|start_entity associated|nsubjpass|polymorphisms associated|nmod|end_entity	26
+polymorphisms|compound|start_entity associated|nsubjpass|polymorphisms associated|nmod|end_entity	26
+polymorphism|compound|start_entity polymorphism|nmod|end_entity	26
+gene|compound|start_entity polymorphism|nmod|gene associated|nsubjpass|polymorphism associated|nmod|end_entity	26
+polymorphism|nmod|start_entity association|nmod|polymorphism association|nmod|end_entity	26
+association|nmod|start_entity polymorphisms|nsubj|association polymorphisms|nmod|end_entity	26
+genotype|nsubj|start_entity genotype|nmod|end_entity	26
+polymorphism|amod|start_entity polymorphism|nmod|patients patients|nmod|end_entity	26
+genotype|amod|start_entity genotype|nmod|end_entity	26
+gene|compound|start_entity polymorphism|nsubj|gene polymorphism|nmod|end_entity	26
+gene|compound|start_entity association|nmod|gene polymorphisms|nsubj|association polymorphisms|nmod|end_entity	26
+polymorphisms|nummod|start_entity polymorphisms|nmod|end_entity	26
+variants|nmod|start_entity variants|nmod|end_entity	26
+start_entity|nmod|gene gene|nmod|end_entity	26
+gene|amod|start_entity end_entity|nmod|gene	26
+variants|nmod|start_entity associated|nsubjpass|variants associated|nmod|end_entity	26
+polymorphisms|nsubj|start_entity polymorphisms|nmod|patients patients|nmod|end_entity	26
+gene|compound|start_entity association|nmod|gene polymorphism|nsubj|association polymorphism|nmod|end_entity	27
+polymorphism|compound|start_entity associated|nsubjpass|polymorphism associated|nmod|end_entity	27
+polymorphism|compound|start_entity association|nmod|polymorphism association|nmod|end_entity	27
+blockade|compound|start_entity blockade|nmod|end_entity	27
+gene|amod|start_entity association|nmod|gene association|nmod|end_entity	27
+gene|amod|start_entity polymorphism|nmod|gene polymorphism|nmod|end_entity	27
+gene|amod|start_entity gene|nmod|family family|nmod|end_entity	27
+gene|amod|start_entity gene|nmod|patients patients|compound|end_entity	27
+gene|amod|start_entity association|nmod|gene polymorphisms|nsubj|association polymorphisms|nmod|end_entity	27
+gene|amod|start_entity polymorphism|nsubj|gene polymorphism|nmod|end_entity	27
+polymorphism|amod|start_entity end_entity|nsubj|polymorphism	27
+association|nmod|start_entity polymorphism|nsubj|association polymorphism|nmod|end_entity	27
+polymorphism|nsubj|start_entity polymorphism|nmod|end_entity	27
+polymorphism|amod|start_entity association|nmod|polymorphism association|nmod|end_entity	27
+gene|amod|start_entity gene|nmod|-rsb- -rsb-|compound|end_entity	27
+expression|amod|start_entity analysis|nmod|expression analysis|nmod|end_entity	27
+immunoreactivity|amod|start_entity immunoreactivity|nmod|end_entity	27
+gene|amod|start_entity polymorphism|nmod|gene associated|nsubjpass|polymorphism associated|nmod|end_entity	27
+gene|amod|start_entity gene|nmod|patients patients|nmod|end_entity	27
+polymorphism|amod|start_entity polymorphism|nmod|end_entity	27
+polymorphism|amod|start_entity associated|nsubjpass|polymorphism associated|nmod|end_entity	27
+oncoprotein|amod|start_entity oncoprotein|nmod|end_entity	27
+gene|amod|start_entity expression|nmod|gene expression|nmod|end_entity	27
+gene|amod|start_entity analysis|nmod|gene analysis|nmod|end_entity	27
+analysis|amod|start_entity analysis|nmod|end_entity	27
+inhibitor|compound|start_entity inhibitor|nmod|end_entity	27
+gene|amod|start_entity mutation|nmod|gene mutation|nmod|end_entity	27
+start_entity|nmod|cases cases|nmod|end_entity	27
+function|nmod|start_entity function|nmod|end_entity	28
+production|amod|start_entity production|nmod|end_entity	28
+responses|amod|start_entity responses|nmod|end_entity	28
+assay|compound|start_entity assay|nmod|end_entity	28
+interaction|nmod|start_entity interaction|nmod|end_entity	29
+expression|compound|start_entity significance|nmod|expression significance|nmod|end_entity	29
+start_entity|nmod|tissues tissues|compound|end_entity	29
+enhances|nsubj|start_entity enhances|nmod|end_entity	29
+start_entity|dobj|activity activity|nmod|end_entity	29
+increased|nsubjpass|start_entity increased|nmod|end_entity	29
+start_entity|dep|role role|nmod|end_entity	29
+genes|nummod|start_entity genes|nmod|end_entity	29
+modulation|nmod|start_entity modulation|nmod|end_entity	29
+promotes|nsubj|start_entity promotes|dobj|invasion invasion|compound|end_entity	29
+induces|nsubj|start_entity induces|dobj|apoptosis apoptosis|nmod|cells cells|compound|end_entity	29
+expression|amod|start_entity associated|nsubjpass|expression associated|nmod|end_entity	29
+expression|amod|start_entity end_entity|nsubj|expression	29
+promotes|nsubj|start_entity promotes|dobj|proliferation proliferation|compound|end_entity	29
+expression|nmod|start_entity end_entity|nmod|expression	29
+gene|compound|start_entity polymorphisms|nmod|gene associated|nsubjpass|polymorphisms associated|nmod|end_entity	29
+protects|nsubj|start_entity protects|dobj|cells cells|compound|end_entity	29
+expression|nmod|start_entity correlates|nsubj|expression correlates|nmod|end_entity	29
+expressed|nsubjpass|start_entity expressed|nmod|end_entity	29
+promotes|nsubj|start_entity promotes|dobj|progression progression|compound|end_entity	29
+expression|nummod|start_entity expression|nmod|patients patients|nmod|end_entity	30
+assay|amod|start_entity assay|nmod|end_entity	30
+proteins|amod|start_entity proteins|nmod|end_entity	30
+overexpression|nsubj|start_entity overexpression|nmod|end_entity	30
+start_entity|dobj|expression expression|nmod|end_entity	30
+expressing|dobj|start_entity end_entity|acl|expressing	30
+expression|amod|start_entity correlation|nmod|expression correlation|nmod|end_entity	30
+localization|nmod|start_entity localization|nmod|end_entity	30
+content|amod|start_entity content|nmod|end_entity	30
+expression|amod|start_entity value|nmod|expression value|nmod|end_entity	30
+secretion|nmod|start_entity secretion|nmod|end_entity	30
+production|compound|start_entity end_entity|nmod|production	30
+expression|compound|start_entity end_entity|nsubj|expression	30
+expression|compound|start_entity role|nmod|expression role|nmod|end_entity	30
+expression|amod|start_entity end_entity|nmod|expression	30
+phosphorylation|compound|start_entity phosphorylation|nmod|end_entity	30
+expression|amod|start_entity expression|nmod|patients patients|nmod|end_entity	30
+polymorphisms|nmod|start_entity association|nmod|polymorphisms association|nmod|end_entity	30
+pathway|compound|start_entity end_entity|nmod|pathway	30
+upregulated|nsubjpass|start_entity upregulated|nmod|end_entity	30
+promotes|nsubj|start_entity promotes|nmod|end_entity	30
+expression|compound|start_entity regulation|nmod|expression regulation|nmod|end_entity	30
+correlated|nsubjpass|start_entity correlated|nmod|end_entity	30
+promotes|nsubj|start_entity promotes|dobj|metastasis metastasis|compound|end_entity	30
+polymorphisms|amod|start_entity associated|nsubjpass|polymorphisms associated|nmod|end_entity	30

@@ -1,0 +1,693 @@
+decreased|nsubj|start_entity decreased|nmod|end_entity	1
+reduce|nsubj|start_entity reduce|nmod|end_entity	1
+start_entity|nmod|models models|compound|end_entity	1
+treated|nmod|start_entity patients|acl|treated end_entity|nmod|patients	1
+reduced|nsubj|start_entity reduced|dobj|incidence incidence|nmod|end_entity	1
+start_entity|xcomp|prevent prevent|dobj|end_entity	1
+reduces|nsubj|start_entity reduces|dobj|incidence incidence|nmod|end_entity	1
+start_entity|acl|prevent prevent|dobj|end_entity	1
+used|nsubjpass|start_entity used|xcomp|prevent prevent|dobj|end_entity	1
+role|nmod|start_entity role|nmod|end_entity	1
+have|nsubj|start_entity have|nmod|end_entity	1
+induced|nmod|start_entity induced|dobj|end_entity	1
+start_entity|nmod|prevention prevention|compound|end_entity	1
+start_entity|nmod|cells cells|compound|end_entity	2
+start_entity|nmod|growth growth|compound|end_entity	2
+induces|nsubj|start_entity induces|dobj|apoptosis apoptosis|nmod|cells cells|compound|end_entity	2
+inhibits|nsubj|start_entity inhibits|dobj|growth growth|compound|end_entity	2
+inhibits|nsubj|start_entity inhibits|dobj|proliferation proliferation|nmod|cells cells|compound|end_entity	2
+induced|nmod|start_entity cells|acl|induced cells|compound|end_entity	2
+start_entity|nmod|cell cell|compound|end_entity	2
+sensitizes|nsubj|start_entity sensitizes|dobj|cells cells|compound|end_entity	2
+inhibit|nsubj|start_entity inhibit|dobj|growth growth|compound|end_entity	2
+induces|nsubj|start_entity induces|nmod|cells cells|compound|end_entity	2
+effects|nmod|start_entity effects|nmod|cells cells|compound|end_entity	2
+inhibits|nsubj|start_entity inhibits|dobj|growth growth|nmod|cells cells|compound|end_entity	2
+inhibited|nsubj|start_entity inhibited|nmod|cells cells|compound|end_entity	2
+effect|nmod|start_entity effect|nmod|cells cells|compound|end_entity	2
+growth|nmod|start_entity growth|compound|end_entity	2
+inhibited|nsubj|start_entity inhibited|dobj|growth growth|nmod|cells cells|compound|end_entity	2
+inhibited|nsubj|start_entity inhibited|dobj|growth growth|compound|end_entity	2
+treatment|amod|start_entity treatment|nmod|cells cells|compound|end_entity	2
+inhibited|nsubj|start_entity inhibited|dobj|proliferation proliferation|nmod|cells cells|compound|end_entity	2
+start_entity|nmod|tissue tissue|compound|end_entity	2
+effects|amod|start_entity effects|nmod|end_entity	3
+activity|compound|start_entity activity|nmod|end_entity	3
+start_entity|appos|drug drug|nmod|treatment treatment|nmod|end_entity	3
+evaluate|nmod|start_entity evaluate|nmod|patients patients|nmod|end_entity	3
+start_entity|acl|used used|xcomp|treat treat|dobj|end_entity	3
+start_entity|acl|used used|nmod|end_entity	3
+treated|nmod|start_entity treated|nsubjpass|women women|nmod|end_entity	3
+resistant|nmod|start_entity end_entity|amod|resistant	3
+start_entity|nmod|treatment treatment|compound|end_entity	3
+agent|nsubj|start_entity agent|nmod|end_entity	3
+using|dobj|start_entity end_entity|acl|using	3
+trial|nmod|start_entity trial|nmod|end_entity	3
+start_entity|nmod|management management|nmod|end_entity	3
+study|nmod|start_entity study|nmod|end_entity	3
+study|nmod|start_entity study|nmod|treatment treatment|nmod|end_entity	3
+treated|nmod|start_entity end_entity|acl:relcl|treated	3
+received|dobj|start_entity received|nsubj|patients patients|nmod|end_entity	3
+start_entity|nmod|case case|nmod|end_entity	3
+start_entity|nmod|management management|compound|end_entity	3
+agent|nsubj|start_entity agent|nmod|treatment treatment|nmod|end_entity	3
+therapy|nmod|start_entity therapy|nmod|end_entity	3
+induced|nsubj|start_entity induced|nmod|end_entity	3
+considered|nsubjpass|start_entity considered|nmod|end_entity	3
+start_entity|nmod|therapy therapy|compound|end_entity	3
+sensitivity|compound|start_entity sensitivity|nmod|end_entity	3
+resistance|compound|start_entity resistance|nmod|end_entity	3
+start_entity|nmod|treatment treatment|nmod|patients patients|compound|end_entity	3
+start_entity|nmod|chemotherapy chemotherapy|nmod|end_entity	3
+chemotherapy|nmod|start_entity chemotherapy|nmod|end_entity	3
+chemotherapy|compound|start_entity chemotherapy|nmod|end_entity	3
+become|nsubj|start_entity become|nmod|end_entity	3
+induced|nmod|start_entity induced|nmod|cells cells|compound|end_entity	3
+cells|nmod|start_entity cells|compound|end_entity	3
+induce|nsubj|start_entity induce|nmod|cells cells|compound|end_entity	3
+induced|nsubj|start_entity induced|nmod|cells cells|compound|end_entity	3
+treated|nmod|start_entity cells|acl|treated cells|compound|end_entity	3
+treated|nmod|start_entity treated|nsubjpass|cells cells|compound|end_entity	3
+cells|amod|start_entity cells|compound|end_entity	3
+start_entity|nmod|lines lines|compound|end_entity	3
+start_entity|nmod|line line|compound|end_entity	3
+resistance|compound|start_entity resistance|nmod|cells cells|compound|end_entity	3
+exposed|nmod|start_entity cells|acl|exposed cells|compound|end_entity	3
+resistance|amod|start_entity resistance|nmod|cells cells|compound|end_entity	3
+start_entity|nmod|cells cells|amod|end_entity	3
+treatment|compound|start_entity treatment|nmod|cells cells|compound|end_entity	3
+lines|nmod|start_entity lines|compound|end_entity	3
+received|dobj|start_entity received|nsubj|patients patients|compound|end_entity	4
+effects|nmod|start_entity effects|nmod|patients patients|amod|end_entity	5
+start_entity|nmod|treatment treatment|nmod|patients patients|amod|end_entity	5
+treated|nmod|start_entity treated|nsubjpass|patients patients|amod|end_entity	5
+start_entity|nmod|patients patients|amod|end_entity	5
+patients|nmod|start_entity patients|amod|end_entity	5
+receiving|dobj|start_entity patients|acl|receiving patients|amod|end_entity	5
+treated|nmod|start_entity patients|acl|treated patients|amod|end_entity	5
+treatment|amod|start_entity treatment|nmod|patients patients|amod|end_entity	5
+start_entity|amod|due due|nmod|end_entity	6
+measured|nsubjpass|start_entity measured|nmod|end_entity	6
+start_entity|acl|administered administered|nmod|end_entity	6
+affect|nsubj|start_entity affect|nmod|end_entity	6
+effects|nmod|start_entity evaluated|dobj|effects evaluated|nmod|end_entity	6
+indicated|nsubjpass|start_entity indicated|nmod|end_entity	6
+start_entity|nmod|relief relief|nmod|end_entity	6
+compared|nmod|start_entity compared|nmod|patients patients|nmod|end_entity	6
+efficacy|nmod|start_entity determine|dobj|efficacy determine|nmod|treatment treatment|nmod|end_entity	6
+safe|nsubj|start_entity safe|nmod|treatment treatment|nmod|end_entity	6
+-rsb-|amod|start_entity treatment|nmod|-rsb- treatment|nmod|end_entity	6
+start_entity|dep|therapy therapy|nmod|end_entity	6
+evaluate|nmod|start_entity evaluate|nmod|end_entity	6
+patients|amod|start_entity patients|appos|end_entity	6
+start_entity|nmod|patients patients|appos|end_entity	6
+group|compound|start_entity group|compound|end_entity	7
+drug|nsubj|start_entity drug|nmod|choice choice|nmod|treatment treatment|nmod|end_entity	8
+effects|nmod|start_entity evaluate|dobj|effects evaluate|nmod|patients patients|nmod|end_entity	8
+effects|nmod|start_entity studied|nsubjpass|effects studied|nmod|patients patients|nmod|end_entity	8
+studies|nmod|start_entity studies|nmod|end_entity	8
+administration|nmod|start_entity administration|nmod|end_entity	8
+effect|nmod|start_entity studied|nsubjpass|effect studied|nmod|patients patients|nmod|end_entity	8
+option|nsubj|start_entity option|nmod|end_entity	8
+effect|nmod|start_entity study|dobj|effect study|nmod|end_entity	8
+inhibits|nsubj|start_entity inhibits|nmod|end_entity	8
+effect|nmod|start_entity determine|dobj|effect determine|nmod|end_entity	8
+effective|nsubj|start_entity effective|advcl|preventing preventing|dobj|end_entity	8
+exerts|nsubj|start_entity exerts|nmod|end_entity	8
+reduced|nsubj|start_entity reduced|nmod|end_entity	8
+start_entity|nmod|model model|compound|end_entity	8
+effects|nmod|start_entity effects|nmod|patients patients|nmod|end_entity	8
+effect|nmod|start_entity investigated|dobj|effect investigated|nmod|end_entity	8
+start_entity|nmod|model model|nmod|end_entity	8
+treatment|nmod|start_entity end_entity|dep|treatment	8
+use|amod|start_entity use|nmod|end_entity	8
+treatment|amod|start_entity end_entity|nmod|treatment	8g
+therapy|amod|start_entity end_entity|nmod|therapy	8g
+treatment|nmod|start_entity end_entity|nmod|treatment	8g
+treated|nmod|start_entity treated|nmod|end_entity	8g
+start_entity|nmod|patients patients|compound|end_entity	8g
+used|nsubjpass|start_entity used|nmod|end_entity	8g
+received|dobj|start_entity end_entity|acl:relcl|received	8g
+therapy|compound|start_entity therapy|nmod|patients patients|compound|end_entity	8g
+treated|nmod|start_entity treated|nsubjpass|patients patients|compound|end_entity	8g
+received|dobj|start_entity received|nmod|end_entity	8g
+patients|nmod|start_entity patients|compound|end_entity	8g
+treated|nmod|start_entity patients|acl|treated patients|compound|end_entity	8g
+effective|nsubj|start_entity effective|nmod|end_entity	8g
+treatment|nsubj|start_entity treatment|nmod|end_entity	8g
+treated|nmod|start_entity treated|nsubjpass|end_entity	8g
+therapy|amod|start_entity therapy|nmod|end_entity	8g
+treatment|amod|start_entity treatment|nmod|end_entity	8g
+treated|nmod|start_entity end_entity|acl|treated	8g
+treatment|compound|start_entity treatment|nmod|end_entity	8g
+effective|nsubj|start_entity effective|nmod|treatment treatment|nmod|end_entity	8g
+treated|nmod|start_entity treated|nsubjpass|patients patients|nmod|end_entity	8g
+treatment|nmod|start_entity treatment|nmod|end_entity	8g
+used|nsubjpass|start_entity used|nmod|treatment treatment|nmod|end_entity	8g
+used|nsubjpass|start_entity used|xcomp|treat treat|dobj|end_entity	8g
+efficacy|nmod|start_entity efficacy|nmod|patients patients|nmod|end_entity	8g
+efficacy|nmod|start_entity evaluate|dobj|efficacy evaluate|nmod|patients patients|nmod|end_entity	8g
+impact|nmod|start_entity impact|nmod|end_entity	8g
+start_entity|nmod|children children|nmod|end_entity	8g
+comparison|nmod|start_entity comparison|nmod|end_entity	8g
+start_entity|nmod|therapy therapy|nmod|end_entity	8g
+efficacy|nmod|start_entity efficacy|nmod|end_entity	8g
+start_entity|nmod|treatment treatment|nmod|patients patients|nmod|end_entity	8g
+given|nsubjpass|start_entity given|nmod|end_entity	8g
+therapy|compound|start_entity therapy|nmod|end_entity	8g
+comparison|nmod|start_entity comparison|nmod|treatment treatment|nmod|end_entity	8g
+start_entity|dobj|treatment treatment|nmod|end_entity	8g
+drug|nsubj|start_entity drug|acl|used used|nmod|treatment treatment|nmod|end_entity	8g
+therapy|compound|start_entity therapy|nmod|treatment treatment|nmod|end_entity	8g
+effectiveness|nmod|start_entity effectiveness|nmod|end_entity	8g
+therapy|compound|start_entity therapy|nmod|patients patients|nmod|end_entity	8g
+treatment|nsubj|start_entity treatment|nmod|patients patients|nmod|end_entity	8g
+taking|dobj|start_entity taking|nmod|end_entity	8g
+receiving|dobj|start_entity receiving|nmod|end_entity	8g
+start_entity|advcl|reducing reducing|dobj|end_entity	8g
+efficacy|nmod|start_entity assess|dobj|efficacy assess|nmod|treatment treatment|nmod|end_entity	8g
+studied|nsubjpass|start_entity studied|nmod|end_entity	8g
+pharmacokinetics|nmod|start_entity pharmacokinetics|nmod|patients patients|nmod|end_entity	8g
+safety|nmod|start_entity safety|nmod|end_entity	8g
+efficacious|nsubj|start_entity efficacious|nmod|treatment treatment|nmod|end_entity	8g
+start_entity|acl:relcl|used used|xcomp|treat treat|dobj|end_entity	8g
+efficacy|nmod|start_entity compare|dobj|efficacy compare|nmod|treatment treatment|nmod|end_entity	8g
+recommended|nsubjpass|start_entity recommended|nmod|treatment treatment|nmod|end_entity	8g
+start_entity|nmod|treatment treatment|nmod|-rsb- -rsb-|compound|end_entity	8g
+start_entity|nsubj|treatment treatment|nmod|end_entity	8g
+start_entity|appos|drug drug|nmod|end_entity	8g
+start_entity|appos|treatment treatment|nmod|end_entity	8g
+used|nsubjpass|start_entity used|nmod|management management|nmod|end_entity	8g
+start_entity|appos|drug drug|acl|used used|nmod|treatment treatment|nmod|end_entity	8g
+therapy|amod|start_entity therapy|nmod|treatment treatment|nmod|end_entity	8g
+agent|nsubj|start_entity agent|nmod|patients patients|nmod|end_entity	8g
+combination|nmod|start_entity combination|nmod|end_entity	8g
+drug|nsubj|start_entity drug|nmod|treatment treatment|nmod|end_entity	8g
+given|nsubjpass|start_entity given|nmod|patients patients|nmod|end_entity	8g
+indicated|nsubjpass|start_entity indicated|nmod|treatment treatment|nmod|end_entity	8g
+used|nsubjpass|start_entity used|nmod|treatment treatment|nmod|patients patients|nmod|end_entity	8g
+combination|nmod|start_entity treated|nmod|combination treated|nsubjpass|patients patients|nmod|end_entity	8g
+option|nsubj|start_entity option|nmod|treatment treatment|nmod|end_entity	8g
+responded|nmod|start_entity end_entity|acl:relcl|responded	8g
+compared|nmod|start_entity compared|nmod|treatment treatment|nmod|end_entity	8g
+start_entity|advcl|treating treating|dobj|end_entity	8g
+treated|nmod|start_entity treated|nsubjpass|children children|nmod|end_entity	8g
+administration|amod|start_entity administration|nmod|end_entity	8g
+start_entity|nmod|control control|nmod|end_entity	8g
+controlled|nmod|start_entity controlled|nsubjpass|end_entity	8g
+responded|nmod|start_entity responded|nsubj|end_entity	8g
+inhibitor|nsubj|start_entity inhibitor|nmod|end_entity	8g
+start_entity|nmod|control control|compound|end_entity	8g
+tested|nsubjpass|start_entity tested|nmod|end_entity	8g
+start_entity|dep|treatment treatment|nmod|end_entity	8g
+evaluation|nmod|start_entity evaluation|nmod|treatment treatment|nmod|end_entity	8g
+start_entity|acl|treat treat|dobj|end_entity	8g
+improves|nsubj|start_entity improves|nmod|patients patients|nmod|end_entity	8g
+treatment|nsubj|start_entity treatment|nmod|choice choice|nmod|end_entity	8g
+combined|nmod|start_entity combined|nmod|patients patients|nmod|end_entity	8g
+start_entity|xcomp|treat treat|dobj|end_entity	8g
+efficacy|nmod|start_entity assess|dobj|efficacy assess|nmod|patients patients|nmod|end_entity	8g
+role|nmod|start_entity role|nmod|treatment treatment|nmod|end_entity	8g
+therapy|nsubj|start_entity therapy|nmod|patients patients|nmod|end_entity	8g
+compared|nmod|start_entity compared|nmod|end_entity	8g
+response|amod|start_entity response|nmod|end_entity	8g
+start_entity|acl|used used|nmod|treatment treatment|nmod|end_entity	8g
+start_entity|nmod|therapy therapy|nmod|patients patients|nmod|end_entity	8g
+active|nsubj|start_entity active|nmod|end_entity	8g
+shown|nsubj|start_entity shown|nmod|end_entity	8g
+start_entity|nmod|agent agent|nmod|end_entity	8g
+start_entity|acl|treating treating|dobj|end_entity	8g
+resistant|amod|start_entity end_entity|amod|resistant	8g
+evaluated|nsubjpass|start_entity evaluated|nmod|end_entity	8g
+start_entity|appos|agent agent|nmod|end_entity	8g
+used|nsubjpass|start_entity used|nmod|therapy therapy|nmod|end_entity	8g
+receiving|dobj|start_entity receiving|nmod|treatment treatment|nmod|end_entity	8g
+comparing|dobj|start_entity comparing|nmod|end_entity	8g
+received|nmod|start_entity received|nsubj|patients patients|nmod|end_entity	8g
+followed|nmod|start_entity followed|nmod|end_entity	8g
+demonstrated|nsubj|start_entity demonstrated|nmod|patients patients|nmod|end_entity	8g
+agents|nsubj|start_entity agents|nmod|end_entity	8g
+chemotherapy|amod|start_entity chemotherapy|nmod|end_entity	8g
+used|nsubjpass|start_entity used|advcl|treating treating|dobj|end_entity	8g
+received|dobj|start_entity received|nmod|treatment treatment|nmod|end_entity	8g
+trial|nmod|start_entity trial|nmod|treatment treatment|nmod|end_entity	8g
+efficacy|nmod|start_entity determine|dobj|efficacy determine|nmod|end_entity	8g
+activity|nmod|start_entity activity|nmod|end_entity	8g
+efficacy|nmod|start_entity compare|dobj|efficacy compare|nmod|patients patients|nmod|end_entity	8g
+used|nsubjpass|start_entity used|xcomp|treat treat|nmod|end_entity	8g
+has|nsubj|start_entity has|dobj|activity activity|nmod|end_entity	8g
+treatment|dep|start_entity treatment|nmod|end_entity	8g
+start_entity|dobj|therapy therapy|nmod|end_entity	8g
+trial|nmod|start_entity trial|nmod|patients patients|nmod|end_entity	8g
+improved|nsubj|start_entity improved|nmod|end_entity	8g
+receive|dobj|start_entity randomized|xcomp|receive randomized|nsubjpass|patients patients|nmod|end_entity	8g
+efficacy|nmod|start_entity efficacy|nmod|treatment treatment|nmod|end_entity	8g
+effective|nmod|start_entity effective|nmod|treatment treatment|nmod|end_entity	8g
+given|dobj|start_entity given|nsubjpass|patients patients|nmod|end_entity	8g
+efficacy|nmod|start_entity assess|dobj|efficacy assess|nmod|end_entity	8g
+efficacious|nsubj|start_entity efficacious|nmod|end_entity	8g
+monotherapy|amod|start_entity monotherapy|nmod|end_entity	8g
+start_entity|nmod|-rsb- -rsb-|amod|end_entity	8h
+infusion|compound|start_entity infusion|nmod|end_entity	8h
+produced|nsubj|start_entity produced|nmod|end_entity	8h
+has|nsubj|start_entity has|nmod|end_entity	8h
+useful|nsubj|start_entity useful|nmod|end_entity	8h
+use|nmod|start_entity use|nmod|treatment treatment|nmod|end_entity	8h
+safety|nmod|start_entity safety|nmod|treatment treatment|nmod|end_entity	8h
+shown|nsubjpass|start_entity shown|xcomp|effective effective|nmod|treatment treatment|nmod|end_entity	8h
+using|dobj|start_entity using|nmod|treatment treatment|nmod|end_entity	8h
+provides|nsubj|start_entity provides|nmod|end_entity	8h
+option|nsubj|start_entity option|nmod|patients patients|nmod|end_entity	8h
+demonstrated|nsubj|start_entity demonstrated|nmod|end_entity	8h
+administered|nsubjpass|start_entity administered|nmod|patients patients|nmod|end_entity	8h
+efficacy|nmod|start_entity evaluate|dobj|efficacy evaluate|nmod|treatment treatment|nmod|end_entity	8h
+treatment|amod|start_entity treatment|nmod|patients patients|nmod|end_entity	8h
+therapy|nsubj|start_entity therapy|nmod|end_entity	8h
+efficacy|nmod|start_entity evaluate|dobj|efficacy evaluate|nmod|end_entity	8h
+approved|nsubjpass|start_entity approved|nmod|treatment treatment|nmod|end_entity	8h
+approved|nsubjpass|start_entity approved|nmod|end_entity	8h
+useful|nsubj|start_entity useful|nmod|treatment treatment|nmod|end_entity	8h
+treated|nmod|start_entity end_entity|dep|treated	8h
+patients|amod|start_entity patients|nmod|end_entity	8h
+response|compound|start_entity response|nmod|end_entity	8h
+resistance|amod|start_entity resistance|nmod|end_entity	8h
+patients|amod|start_entity patients|compound|end_entity	8h
+tolerated|nsubjpass|start_entity tolerated|nmod|patients patients|nmod|end_entity	8h
+treating|nmod|start_entity treating|dobj|end_entity	8h
+study|nmod|start_entity study|nmod|patients patients|nmod|end_entity	8h
+using|dobj|start_entity using|nmod|patients patients|nmod|end_entity	8h
+receiving|dobj|start_entity patients|acl|receiving patients|compound|end_entity	8h
+effective|nmod|start_entity effective|nmod|end_entity	8h
+considered|nsubjpass|start_entity considered|nmod|treatment treatment|nmod|end_entity	8h
+efficacy|nmod|start_entity compare|dobj|efficacy compare|nmod|end_entity	8h
+treated|nmod|start_entity patients|acl|treated patients|nmod|end_entity	8h
+start_entity|acl|administered administered|nmod|patients patients|nmod|end_entity	8h
+randomized|nmod|start_entity randomized|nsubjpass|patients patients|nmod|end_entity	8h
+treatment|compound|start_entity treatment|nmod|patients patients|compound|end_entity	8h
+therapy|amod|start_entity therapy|nmod|patients patients|compound|end_entity	8h
+treatment|amod|start_entity treatment|nmod|patients patients|compound|end_entity	8h
+treated|nmod|start_entity patients|acl:relcl|treated patients|nmod|end_entity	8h
+start_entity|acl:relcl|used used|nmod|treatment treatment|nmod|end_entity	8h
+induce|nsubj|start_entity induce|nmod|end_entity	8h
+associated|nsubj|start_entity associated|nmod|end_entity	8h
+start_entity|nmod|women women|nmod|end_entity	8h
+patients|nmod|start_entity end_entity|nmod|patients	8h
+combined|nmod|start_entity combined|nmod|treatment treatment|nmod|end_entity	8h
+use|nsubj|start_entity use|nmod|end_entity	8h
+evaluation|nmod|start_entity evaluation|nmod|end_entity	8h
+use|nmod|start_entity use|nmod|end_entity	8h
+receiving|dobj|start_entity end_entity|acl|receiving	8h
+therapy|amod|start_entity therapy|nmod|patients patients|nmod|end_entity	8h
+start_entity|dep|review review|nmod|use use|nmod|end_entity	8h
+treatment|compound|start_entity treatment|nmod|patients patients|nmod|end_entity	8h
+taking|dobj|start_entity end_entity|acl|taking	8h
+receive|dobj|start_entity assigned|xcomp|receive assigned|nsubjpass|patients patients|nmod|end_entity	8h
+start_entity|nmod|-rsb- -rsb-|compound|end_entity	8h
+effective|nsubj|start_entity effective|nmod|patients patients|nmod|end_entity	8h
+receiving|dobj|start_entity receiving|nsubj|patients patients|nmod|end_entity	8h
+combined|nmod|start_entity combined|nmod|end_entity	8h
+pharmacokinetics|nmod|start_entity pharmacokinetics|nmod|end_entity	8h
+agent|nsubj|start_entity agent|acl|used used|nmod|treatment treatment|nmod|end_entity	8h
+drug|nsubj|start_entity drug|nmod|end_entity	8h
+improve|nsubj|start_entity improve|nmod|patients patients|nmod|end_entity	8h
+increases|nsubj|start_entity increases|nmod|end_entity	8h
+start_entity|nmod|subjects subjects|nmod|end_entity	8h
+improve|nsubj|start_entity improve|nmod|end_entity	8h
+comparison|nmod|start_entity comparison|nmod|patients patients|nmod|end_entity	8h
+effective|nsubj|start_entity effective|advcl|treating treating|dobj|end_entity	8h
+reduces|nsubj|start_entity reduces|nmod|patients patients|nmod|end_entity	8h
+start_entity|nmod|men men|nmod|end_entity	8h
+prescribed|nsubjpass|start_entity prescribed|nmod|end_entity	8h
+effects|nmod|start_entity evaluate|dobj|effects evaluate|nmod|end_entity	8h
+effect|nmod|start_entity effect|nmod|patients patients|nmod|end_entity	8h
+analysis|nmod|start_entity analysis|nmod|end_entity	8h
+start_entity|nmod|patients patients|nmod|-rsb- -rsb-|compound|end_entity	8h
+recommended|nsubjpass|start_entity recommended|nmod|end_entity	8h
+used|nsubjpass|start_entity used|nmod|patients patients|nmod|end_entity	8h
+using|dobj|start_entity using|nmod|end_entity	8h
+administered|nsubjpass|start_entity administered|nmod|end_entity	8h
+start_entity|nmod|patient patient|nmod|end_entity	8h
+response|nmod|start_entity response|nmod|end_entity	8h
+start_entity|nmod|prevention prevention|nmod|end_entity	9
+reduces|nsubj|start_entity reduces|nmod|end_entity	9
+used|nsubjpass|start_entity used|nmod|prevention prevention|nmod|end_entity	9
+start_entity|nmod|prophylaxis prophylaxis|nmod|end_entity	9
+treatment|nmod|start_entity treatment|compound|end_entity	9
+prevents|nsubj|start_entity prevents|nmod|end_entity	9
+treatment|compound|start_entity end_entity|nmod|treatment	9
+therapy|compound|start_entity end_entity|nmod|therapy	9
+group|compound|start_entity end_entity|nmod|group	9
+reduces|nsubj|start_entity reduces|dobj|risk risk|nmod|end_entity	9
+use|compound|start_entity use|nmod|end_entity	9
+associated|nmod|start_entity associated|nmod|end_entity	9
+start_entity|nmod|cases cases|nmod|end_entity	9
+improves|nsubj|start_entity improves|nmod|end_entity	9
+administration|compound|start_entity administration|nmod|end_entity	10
+influence|nmod|start_entity influence|nmod|end_entity	11
+protected|nsubj|start_entity protected|nmod|end_entity	11
+start_entity|nmod|models models|nmod|end_entity	11
+improved|nsubj|start_entity improved|dobj|end_entity	11
+infusion|amod|start_entity infusion|nmod|end_entity	11
+combination|nmod|start_entity end_entity|nmod|combination	12
+had|nsubj|start_entity had|nmod|end_entity	12
+-rsb-|amod|start_entity end_entity|nmod|-rsb-	12
+induced|nmod|start_entity induced|nmod|end_entity	13
+dose|nmod|start_entity end_entity|nmod|dose	13
+model|amod|start_entity model|compound|end_entity	13
+start_entity|dep|model model|compound|end_entity	13
+treated|nmod|start_entity treated|nsubj|end_entity	14
+showed|nsubj|start_entity showed|nmod|end_entity	15
+start_entity|acl|associated associated|nmod|end_entity	15
+concentration|amod|start_entity concentration|nmod|end_entity	15
+promote|nsubj|start_entity promote|dobj|end_entity	15
+level|compound|start_entity level|nmod|end_entity	15
+concentrations|compound|start_entity concentrations|nmod|end_entity	15
+increases|nsubj|start_entity increases|dobj|risk risk|nmod|end_entity	15
+intake|compound|start_entity associated|nsubjpass|intake associated|nmod|end_entity	15
+cause|nsubj|start_entity cause|nmod|end_entity	15
+caused|nmod|start_entity caused|nsubj|end_entity	15
+due|nmod|start_entity end_entity|amod|due	15
+levels|nmod|start_entity end_entity|nmod|levels	15
+related|nsubjpass|start_entity related|nmod|end_entity	15
+exposure|nmod|start_entity end_entity|nmod|exposure	15
+use|compound|start_entity associated|nmod|use end_entity|acl|associated	15
+administration|compound|start_entity end_entity|nmod|administration	15
+had|nsubj|start_entity had|dobj|end_entity	15
+showed|nsubj|start_entity showed|dobj|end_entity	15
+associated|nmod|start_entity associated|nsubj|end_entity	15
+therapy|amod|start_entity associated|nmod|therapy end_entity|acl|associated	15
+increase|nsubj|start_entity increase|dobj|end_entity	15
+caused|nmod|start_entity caused|nsubjpass|end_entity	15
+associated|nmod|start_entity end_entity|acl|associated	15
+related|nmod|start_entity end_entity|acl|related	15
+use|nmod|start_entity associated|nsubjpass|use associated|nmod|risk risk|nmod|end_entity	15
+common|nmod|start_entity common|nsubj|end_entity	15
+cause|nsubj|start_entity cause|dobj|end_entity	15
+use|nmod|start_entity associated|nsubjpass|use associated|nmod|end_entity	15
+therapy|compound|start_entity associated|nmod|therapy end_entity|acl|associated	15
+use|nmod|start_entity end_entity|nmod|use	15
+use|nmod|start_entity associated|nmod|use end_entity|acl|associated	15
+receiving|dobj|start_entity patients|acl|receiving end_entity|nmod|patients	15
+associated|nsubjpass|start_entity associated|nmod|risk risk|compound|end_entity	15
+occurred|nmod|start_entity occurred|nsubj|end_entity	15
+increase|nsubj|start_entity increase|dobj|risk risk|nmod|end_entity	15
+users|compound|start_entity end_entity|nmod|users	15
+use|compound|start_entity associated|nsubjpass|use associated|nmod|end_entity	15
+administration|nmod|start_entity end_entity|nmod|administration	16
+developed|nmod|start_entity developed|dobj|end_entity	16
+group|amod|start_entity end_entity|nmod|group	16
+produces|nsubj|start_entity produces|dobj|end_entity	16
+causes|nsubj|start_entity causes|dobj|end_entity	16
+induces|nsubj|start_entity induces|dobj|end_entity	16
+start_entity|acl|induced induced|dobj|end_entity	16
+induced|nmod|start_entity induced|nsubj|end_entity	16
+produced|nsubj|start_entity produced|dobj|end_entity	16
+induced|nsubj|start_entity induced|dobj|end_entity	16
+response|nmod|start_entity end_entity|nmod|response	16
+administration|nmod|start_entity resulted|nsubj|administration resulted|nmod|end_entity	16
+due|xcomp|start_entity due|nsubj|end_entity	16
+known|nsubjpass|start_entity known|xcomp|cause cause|dobj|end_entity	16
+-rsb-|compound|start_entity end_entity|nmod|-rsb-	16
+cells|amod|start_entity end_entity|nmod|cells	16
+exhibited|nsubj|start_entity exhibited|dobj|end_entity	16
+produced|nmod|start_entity produced|nsubj|end_entity	16
+due|xcomp|start_entity end_entity|amod|due	16
+effect|nmod|start_entity effect|nsubj|end_entity	16
+caused|nsubj|start_entity caused|dobj|end_entity	16
+start_entity|acl|induced induced|advmod|end_entity	16
+resulted|nsubj|start_entity resulted|nmod|end_entity	16
+exposure|compound|start_entity end_entity|nmod|exposure	16
+antagonized|nmod|start_entity antagonized|nsubjpass|end_entity	16
+blocked|nmod|start_entity blocked|nsubjpass|end_entity	16
+start_entity|acl|induced induced|xcomp|end_entity	16
+administration|amod|start_entity end_entity|nmod|administration	16
+has|nsubj|start_entity has|dobj|end_entity	16
+effect|nmod|start_entity effect|dep|end_entity	16
+observed|nmod|start_entity observed|nsubjpass|end_entity	16
+related|xcomp|start_entity end_entity|acl|related	16
+induced|compound|start_entity end_entity|nsubj|induced	16
+due|xcomp|start_entity end_entity|xcomp|due	16
+due|nmod|start_entity due|advmod|end_entity	16
+role|nmod|start_entity end_entity|dep|role	16
+receiving|dobj|start_entity developed|advcl|receiving developed|dobj|end_entity	16
+produce|nsubj|start_entity produce|dobj|end_entity	16
+start_entity|nmod|induction induction|nmod|end_entity	16
+injection|compound|start_entity end_entity|nmod|injection	16
+reversed|nmod|start_entity reversed|nsubjpass|end_entity	16
+-rsb-|amod|start_entity -rsb-|compound|end_entity	16
+induce|nsubj|start_entity induce|dobj|end_entity	16
+start_entity|acl|induce induce|dobj|end_entity	16
+caused|nmod|start_entity end_entity|acl|caused	16
+induced|nmod|start_entity end_entity|dep|induced	16
+injection|nmod|start_entity end_entity|nmod|injection	16
+model|compound|start_entity model|nmod|end_entity	16
+infusion|nmod|start_entity induced|nmod|infusion induced|nsubjpass|end_entity	16
+administration|nmod|start_entity induced|nmod|administration induced|nsubjpass|end_entity	16
+induced|nmod|start_entity end_entity|acl|induced	16
+injections|nmod|start_entity induced|nmod|injections induced|nsubjpass|end_entity	16
+induced|advcl|start_entity end_entity|acl|induced	16
+model|amod|start_entity model|nmod|end_entity	16
+used|nsubjpass|start_entity used|xcomp|induce induce|dobj|end_entity	16
+injection|nmod|start_entity induced|nmod|injection induced|nsubjpass|end_entity	16
+injection|nmod|start_entity induced|nmod|injection end_entity|acl|induced	16
+administration|nmod|start_entity produced|nsubj|administration produced|dobj|end_entity	16
+induced|nmod|start_entity induced|nsubjpass|end_entity	16
+evoked|nmod|start_entity end_entity|acl|evoked	16
+produced|nmod|start_entity end_entity|acl|produced	16
+administration|nmod|start_entity induced|nmod|administration end_entity|acl|induced	16
+model|compound|start_entity model|compound|end_entity	16
+induced|nsubj|start_entity induced|advmod|end_entity	16
+elicited|nmod|start_entity end_entity|acl|elicited	16
+induced|nmod|start_entity induced|advmod|end_entity	16
+dose|nmod|start_entity induced|nmod|dose end_entity|acl|induced	16
+doses|nmod|start_entity end_entity|nmod|doses	17
+levels|compound|start_entity levels|nmod|patients patients|amod|end_entity	18
+start_entity|nmod|subjects subjects|amod|end_entity	18
+patients|amod|start_entity patients|amod|end_entity	18
+levels|amod|start_entity levels|nmod|patients patients|amod|end_entity	18
+start_entity|nmod|children children|amod|end_entity	18
+rats|amod|start_entity rats|compound|end_entity	18
+start_entity|nmod|rats rats|compound|end_entity	18
+rats|nmod|start_entity rats|amod|end_entity	18
+start_entity|nmod|rats rats|amod|end_entity	18
+treated|nmod|start_entity rats|acl|treated rats|amod|end_entity	18
+rats|amod|start_entity rats|amod|end_entity	18
+effect|nmod|start_entity effect|nmod|patients patients|amod|end_entity	18
+effect|nmod|start_entity end_entity|dep|effect	19
+tolerated|nsubjpass|start_entity tolerated|nmod|end_entity	19
+start_entity|nmod|diagnosis diagnosis|nmod|end_entity	19
+start_entity|nmod|rats rats|nmod|end_entity	19
+effect|nmod|start_entity studied|dobj|effect studied|nmod|end_entity	19
+activity|amod|start_entity activity|nmod|end_entity	19
+production|amod|start_entity production|nmod|end_entity	19
+use|compound|start_entity end_entity|nmod|use	19
+homeostasis|compound|start_entity homeostasis|nmod|end_entity	19
+supplementation|amod|start_entity supplementation|nmod|end_entity	19
+status|compound|start_entity status|nmod|end_entity	19
+therapy|nmod|start_entity end_entity|nmod|therapy	19
+start_entity|acl:relcl|associated associated|nmod|end_entity	19
+reduced|nsubj|start_entity reduced|dobj|risk risk|nmod|end_entity	19
+concentrations|amod|start_entity concentrations|nmod|end_entity	19
+effects|nmod|start_entity end_entity|dep|effects	20
+content|compound|start_entity content|nmod|end_entity	20
+induces|nsubj|start_entity induces|advmod|end_entity	20
+implicated|nsubjpass|start_entity implicated|nmod|pathogenesis pathogenesis|nmod|end_entity	20
+levels|amod|start_entity levels|nmod|patients patients|compound|end_entity	20
+lower|nsubj|start_entity lower|nmod|end_entity	20
+concentrations|compound|start_entity concentrations|compound|end_entity	20
+levels|amod|start_entity levels|nmod|end_entity	20
+levels|compound|start_entity levels|nmod|patients patients|compound|end_entity	20
+content|amod|start_entity content|nmod|end_entity	20
+levels|nmod|start_entity associated|nmod|levels associated|nsubjpass|end_entity	20
+metabolism|compound|start_entity metabolism|nmod|patients patients|nmod|end_entity	20
+production|compound|start_entity production|nmod|end_entity	20
+metabolism|amod|start_entity metabolism|nmod|end_entity	20
+supplementation|compound|start_entity supplementation|nmod|end_entity	20
+release|compound|start_entity release|nmod|end_entity	20
+higher|nsubj|start_entity higher|nmod|end_entity	20
+increased|nsubjpass|start_entity increased|nmod|end_entity	20
+start_entity|nmod|group group|compound|end_entity	20
+associated|nsubjpass|start_entity associated|nmod|end_entity	20
+association|nmod|start_entity association|nmod|end_entity	20
+associated|nsubjpass|start_entity associated|nmod|patients patients|nmod|end_entity	20
+plays|nsubj|start_entity plays|dobj|role role|nmod|end_entity	20
+contribute|nsubj|start_entity contribute|nmod|end_entity	20
+associated|nmod|start_entity associated|nsubjpass|end_entity	20
+intake|compound|start_entity associated|nsubjpass|intake associated|nmod|risk risk|nmod|end_entity	20
+increase|nsubj|start_entity increase|nmod|end_entity	20
+levels|compound|start_entity end_entity|nmod|levels	20
+levels|amod|start_entity levels|nmod|patients patients|nmod|end_entity	20
+levels|compound|start_entity levels|amod|end_entity	20
+levels|compound|start_entity levels|compound|end_entity	20
+associated|nsubjpass|start_entity associated|nmod|incidence incidence|nmod|end_entity	20
+levels|compound|start_entity levels|nmod|patients patients|nmod|end_entity	20
+level|compound|start_entity end_entity|nmod|level	20
+levels|nmod|start_entity levels|nmod|end_entity	20
+levels|nmod|start_entity associated|nsubjpass|levels associated|nmod|risk risk|nmod|end_entity	20
+levels|compound|start_entity associated|nsubjpass|levels associated|nmod|end_entity	20
+concentrations|compound|start_entity end_entity|nmod|concentrations	20
+marker|nsubj|start_entity marker|nmod|end_entity	20
+factors|nsubj|start_entity factors|nmod|end_entity	20
+predictor|nsubj|start_entity predictor|nmod|end_entity	20
+levels|nmod|start_entity associated|nsubjpass|levels associated|nmod|end_entity	20
+factor|nsubj|start_entity factor|nmod|end_entity	20
+levels|compound|start_entity associated|nsubjpass|levels associated|nmod|risk risk|nmod|end_entity	20
+start_entity|nmod|factor factor|nmod|end_entity	20
+levels|compound|start_entity levels|nmod|end_entity	20
+start_entity|acl|induced induced|nmod|end_entity	20
+concentration|compound|start_entity concentration|nmod|end_entity	20
+metabolism|compound|start_entity metabolism|nmod|end_entity	20
+play|nsubj|start_entity play|dobj|role role|nmod|end_entity	20
+start_entity|nmod|pathogenesis pathogenesis|nmod|end_entity	20
+uptake|compound|start_entity uptake|nmod|end_entity	20
+metabolism|compound|start_entity end_entity|nmod|metabolism	20
+-rsb-|compound|start_entity -rsb-|compound|end_entity	20
+receptors|compound|start_entity receptors|nmod|end_entity	20
+mediator|nsubj|start_entity mediator|nmod|end_entity	20
+due|nmod|start_entity due|nsubj|end_entity	20
+levels|compound|start_entity associated|nmod|levels associated|nsubjpass|end_entity	20
+implicated|nsubjpass|start_entity implicated|nmod|end_entity	20
+plays|nsubj|start_entity plays|nmod|end_entity	20
+involved|nsubjpass|start_entity involved|nmod|end_entity	20
+concentration|compound|start_entity end_entity|nmod|concentration	20
+transport|compound|start_entity transport|nmod|end_entity	20
+start_entity|nmod|phase phase|nmod|end_entity	21
+showed|nmod|start_entity showed|nmod|end_entity	21
+use|compound|start_entity associated|nsubjpass|use associated|nmod|risk risk|nmod|end_entity	21
+start_entity|nmod|incidence incidence|nmod|end_entity	21
+status|amod|start_entity status|nmod|end_entity	21
+relationship|nmod|start_entity relationship|nmod|end_entity	21
+reduce|nsubj|start_entity reduce|dobj|risk risk|nmod|end_entity	21
+start_entity|nmod|risk risk|compound|end_entity	21
+reduce|nsubj|start_entity reduce|dobj|incidence incidence|nmod|end_entity	21
+start_entity|nmod|development development|nmod|end_entity	21
+intake|compound|start_entity intake|nmod|end_entity	21
+start_entity|nmod|risk risk|nmod|end_entity	21
+associated|nsubjpass|start_entity associated|nmod|risk risk|nmod|end_entity	21
+received|nmod|start_entity end_entity|acl:relcl|received	22
+investigated|nmod|start_entity investigated|nmod|end_entity	22
+accumulation|compound|start_entity accumulation|nmod|end_entity	22
+start_entity|appos|inhibitor inhibitor|nmod|end_entity	23
+had|nmod|start_entity had|dobj|end_entity	23
+effect|nmod|start_entity effect|nmod|-rsb- -rsb-|compound|end_entity	23
+regimen|nsubj|start_entity regimen|nmod|end_entity	23
+inhibited|nsubj|start_entity inhibited|nmod|end_entity	24
+effects|nmod|start_entity effects|amod|end_entity	24
+action|nmod|start_entity action|amod|end_entity	24
+results|amod|start_entity results|nmod|end_entity	24
+response|nmod|start_entity response|compound|end_entity	24
+effect|nmod|start_entity effect|amod|end_entity	24
+response|nmod|start_entity response|amod|end_entity	24
+suppresses|nsubj|start_entity suppresses|dobj|end_entity	24
+effects|nmod|start_entity effects|compound|end_entity	24
+effect|nmod|start_entity effect|compound|end_entity	24
+induces|nsubj|start_entity induces|nmod|end_entity	24
+receptors|amod|start_entity receptors|nmod|end_entity	24
+exposure|compound|start_entity exposure|nmod|end_entity	24
+activity|nmod|start_entity activity|compound|end_entity	24
+concentration|compound|start_entity concentration|compound|end_entity	24
+start_entity|nmod|development development|compound|end_entity	24
+role|nmod|start_entity investigate|dobj|role investigate|nmod|end_entity	24
+linked|nsubjpass|start_entity linked|nmod|end_entity	24
+suppressed|nsubj|start_entity suppressed|dobj|end_entity	24
+has|nsubj|start_entity has|dobj|effect effect|nmod|end_entity	24
+inhibits|nsubj|start_entity inhibits|dobj|end_entity	24
+inhibit|nsubj|start_entity inhibit|dobj|end_entity	24
+increased|nsubj|start_entity increased|nmod|end_entity	25
+effects|nmod|start_entity assess|dobj|effects assess|nmod|end_entity	25
+improves|nsubj|start_entity improves|dobj|end_entity	25
+release|amod|start_entity release|nmod|end_entity	25
+reverse|nsubj|start_entity reverse|dobj|end_entity	25
+reverses|nsubj|start_entity reverses|dobj|end_entity	25
+attenuated|nmod|start_entity attenuated|nsubjpass|end_entity	25
+consumption|compound|start_entity consumption|nmod|end_entity	25
+start_entity|nmod|progression progression|nmod|end_entity	26
+protect|nsubj|start_entity protect|nmod|end_entity	26
+play|nsubj|start_entity play|nmod|end_entity	26
+presence|nmod|start_entity end_entity|nmod|presence	26
+effect|nmod|start_entity examined|dobj|effect examined|nmod|end_entity	26
+inhibited|nsubj|start_entity inhibited|dobj|end_entity	26
+inhibited|nmod|start_entity inhibited|nsubj|end_entity	26
+affected|nmod|start_entity affected|nsubjpass|end_entity	26
+suppressed|nmod|start_entity suppressed|nsubjpass|end_entity	26
+effect|nmod|start_entity investigate|dobj|effect investigate|nmod|end_entity	26
+reduces|nsubj|start_entity reduces|dobj|end_entity	26
+shown|nsubjpass|start_entity shown|xcomp|reduce reduce|dobj|end_entity	26
+decreased|nsubj|start_entity decreased|dobj|end_entity	26
+protects|nsubj|start_entity protects|nmod|end_entity	26
+caused|nsubj|start_entity caused|nmod|end_entity	26
+provided|nsubj|start_entity provided|nmod|end_entity	26
+ameliorates|nsubj|start_entity ameliorates|dobj|end_entity	26
+start_entity|acl|reducing reducing|dobj|end_entity	26
+affect|nsubj|start_entity affect|dobj|end_entity	26
+effect|nmod|start_entity examine|dobj|effect examine|nmod|end_entity	26
+ameliorated|nsubj|start_entity ameliorated|dobj|end_entity	26
+alleviate|nsubj|start_entity alleviate|dobj|end_entity	26
+alleviates|nsubj|start_entity alleviates|dobj|end_entity	26
+effects|nmod|start_entity examined|dobj|effects examined|nmod|end_entity	26
+effects|nmod|start_entity determine|dobj|effects determine|nmod|end_entity	26
+enhances|nsubj|start_entity enhances|dobj|end_entity	26
+increases|nsubj|start_entity increases|dobj|end_entity	26
+had|nsubj|start_entity had|dobj|effect effect|nmod|end_entity	26
+enhance|nsubj|start_entity enhance|dobj|end_entity	26
+increased|nsubj|start_entity increased|dobj|end_entity	26
+promotes|nsubj|start_entity promotes|dobj|end_entity	26
+enhanced|nsubj|start_entity enhanced|dobj|end_entity	26
+inhibited|nmod|start_entity inhibited|nsubjpass|end_entity	26
+blocked|nsubj|start_entity blocked|dobj|end_entity	26
+antagonized|nsubj|start_entity antagonized|dobj|end_entity	26
+responsible|nsubj|start_entity responsible|nmod|end_entity	26
+showed|nmod|start_entity showed|dobj|end_entity	26
+potentiated|nsubj|start_entity potentiated|dobj|end_entity	26
+potentiates|nsubj|start_entity potentiates|dobj|end_entity	26
+reduced|nsubj|start_entity reduced|dobj|end_entity	26
+attenuates|nsubj|start_entity attenuates|dobj|end_entity	26
+study|nmod|start_entity study|compound|end_entity	26
+effects|nmod|start_entity studied|dobj|effects studied|nmod|end_entity	26
+reversed|nsubj|start_entity reversed|dobj|end_entity	26
+attenuated|nsubj|start_entity attenuated|dobj|end_entity	26
+effect|nmod|start_entity evaluated|dobj|effect evaluated|nmod|end_entity	26
+effects|nmod|start_entity effects|dep|end_entity	26
+attenuate|nsubj|start_entity attenuate|dobj|end_entity	26
+effect|nmod|start_entity end_entity|nsubj|effect	27
+effects|nmod|start_entity examine|dobj|effects examine|nmod|end_entity	28
+prevention|nmod|start_entity prevention|nmod|end_entity	28
+has|nsubj|start_entity has|dobj|effects effects|nmod|end_entity	28
+effect|nmod|start_entity evaluate|dobj|effect evaluate|nmod|end_entity	28
+effects|nmod|start_entity investigate|dobj|effects investigate|nmod|end_entity	28
+effects|nmod|start_entity investigated|dobj|effects investigated|nmod|end_entity	28
+effects|nmod|start_entity end_entity|nsubj|effects	28
+exhibited|nsubj|start_entity exhibited|nmod|end_entity	28
+improve|nsubj|start_entity improve|dobj|end_entity	28
+reduced|nsubj|start_entity reduced|nmod|patients patients|nmod|end_entity	28
+start_entity|advcl|preventing preventing|dobj|end_entity	28
+effects|nmod|start_entity study|dobj|effects study|nmod|end_entity	28
+start_entity|acl|preventing preventing|dobj|end_entity	28
+effects|nmod|start_entity studied|nsubjpass|effects studied|nmod|end_entity	28
+effect|nmod|start_entity assess|dobj|effect assess|nmod|end_entity	28
+prevented|nmod|start_entity prevented|nsubjpass|end_entity	28
+effective|nsubj|start_entity effective|nmod|prevention prevention|nmod|end_entity	28
+start_entity|nmod|adults adults|nmod|end_entity	29
+effects|nmod|start_entity effects|nmod|end_entity	30
+effect|nmod|start_entity effect|nmod|end_entity	30
+inhibition|nmod|start_entity inhibition|nmod|end_entity	30
+effects|nmod|start_entity compare|dobj|effects compare|nmod|end_entity	30
+have|nsubj|start_entity have|dobj|effect effect|nmod|end_entity	30
+start_entity|nmod|relief relief|compound|end_entity	30
+have|nsubj|start_entity have|dobj|effects effects|nmod|end_entity	30
+suppress|nsubj|start_entity suppress|dobj|end_entity	30
+exert|nsubj|start_entity exert|nmod|end_entity	30
+prevents|nsubj|start_entity prevents|dobj|end_entity	30
+prevent|nsubj|start_entity prevent|dobj|end_entity	30
+prevented|nsubj|start_entity prevented|dobj|end_entity	30
+decreases|nsubj|start_entity decreases|dobj|end_entity	30
+effect|nmod:poss|start_entity effect|nmod|end_entity	30
+provide|nsubj|start_entity provide|nmod|end_entity	30
+beneficial|nsubj|start_entity beneficial|nmod|end_entity	30
+abolished|nsubj|start_entity abolished|dobj|end_entity	30
+effects|nmod|start_entity effects|nmod|model model|nmod|end_entity	30
+reduced|nmod|start_entity reduced|nsubjpass|end_entity	30
+ameliorate|nsubj|start_entity ameliorate|dobj|end_entity	30
+reduce|nsubj|start_entity reduce|dobj|end_entity	30
+decrease|nsubj|start_entity decrease|dobj|end_entity	30
+effective|nsubj|start_entity effective|advcl|reducing reducing|dobj|end_entity	30
